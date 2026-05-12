@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Chrome user data & temp
+chrome-temp-data/
+chrome-user-data/
+
+# Midscene runtime logs & reports
+midscene_run/
+projects/demo/midscene_run/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env

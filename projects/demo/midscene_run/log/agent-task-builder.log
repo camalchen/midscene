@@ -1,0 +1,2374 @@
+[2026-05-07T14:55:27.447+08:00] will prepend locate param for field action.type=Tap param={"prompt":"百度首页中间的搜索输入框","bbox":[315,271,850,310]} locatePlan={"type":"Locate","param":{"prompt":"百度首页中间的搜索输入框","bbox":[315,271,850,310]},"thought":""} hasBbox=true
+[2026-05-07T14:55:27.683+08:00] executing action Tap {
+  locate: {
+    rect: { left: 315, top: 271, width: 536, height: 40 },
+    center: [ 582, 290 ],
+    description: '百度首页中间的搜索输入框'
+  }
+} taskContext.element.center: 582,290
+[2026-05-07T14:55:27.683+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T14:55:27.683+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T14:55:27.886+08:00] calling action Tap
+[2026-05-07T14:55:27.898+08:00] called action Tap result: undefined
+[2026-05-07T14:55:28.199+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T14:55:28.229+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T14:55:35.651+08:00] will prepend locate param for field action.type=Input param={"prompt":"百度首页搜索输入框","bbox":[315,271,850,310]} locatePlan={"type":"Locate","param":{"prompt":"百度首页搜索输入框","bbox":[315,271,850,310]},"thought":""} hasBbox=true
+[2026-05-07T14:55:35.657+08:00] executing action Input {
+  value: 'Midscene.js',
+  locate: {
+    rect: { left: 315, top: 271, width: 536, height: 40 },
+    center: [ 582, 290 ],
+    description: '百度首页搜索输入框'
+  }
+} taskContext.element.center: 582,290
+[2026-05-07T14:55:35.657+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T14:55:35.657+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T14:55:35.866+08:00] calling action Input
+[2026-05-07T14:55:37.042+08:00] called action Input result: undefined
+[2026-05-07T14:55:37.351+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T14:55:37.360+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T14:55:44.140+08:00] will prepend locate param for field action.type=Tap param={"prompt":"搜索框右侧的蓝色百度一下按钮","bbox":[855,271,968,310]} locatePlan={"type":"Locate","param":{"prompt":"搜索框右侧的蓝色百度一下按钮","bbox":[855,271,968,310]},"thought":""} hasBbox=true
+[2026-05-07T14:55:44.150+08:00] executing action Tap {
+  locate: {
+    rect: { left: 855, top: 271, width: 114, height: 40 },
+    center: [ 911, 290 ],
+    description: '搜索框右侧的蓝色百度一下按钮'
+  }
+} taskContext.element.center: 911,290
+[2026-05-07T14:55:44.150+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T14:55:44.150+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T14:55:44.365+08:00] calling action Tap
+[2026-05-07T14:55:44.370+08:00] called action Tap result: undefined
+[2026-05-07T14:55:44.678+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T14:55:44.695+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T15:00:21.892+08:00] will prepend locate param for field action.type=Tap param={"prompt":"百度搜索输入框","bbox":[232,192,813,278]} locatePlan={"type":"Locate","param":{"prompt":"百度搜索输入框","bbox":[232,192,813,278]},"thought":""} hasBbox=true
+[2026-05-07T15:00:21.900+08:00] executing action Tap {
+  locate: {
+    rect: { left: 232, top: 192, width: 582, height: 87 },
+    center: [ 522, 235 ],
+    description: '百度搜索输入框'
+  }
+} taskContext.element.center: 522,235
+[2026-05-07T15:00:21.900+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T15:00:21.901+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T15:00:22.117+08:00] calling action Tap
+[2026-05-07T15:00:22.126+08:00] called action Tap result: undefined
+[2026-05-07T15:00:22.435+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T15:00:22.465+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T15:00:27.488+08:00] field 'locate' is not provided for action Input
+[2026-05-07T15:00:27.491+08:00] executing action Input { value: 'Midscene.js' } taskContext.element.center: undefined
+[2026-05-07T15:00:27.491+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T15:00:27.491+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T15:00:27.698+08:00] calling action Input
+[2026-05-07T15:00:28.744+08:00] called action Input result: undefined
+[2026-05-07T15:00:29.051+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T15:00:29.062+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T15:00:36.326+08:00] will prepend locate param for field action.type=Tap param={"prompt":"百度一下搜索按钮","bbox":[774,17,874,61]} locatePlan={"type":"Locate","param":{"prompt":"百度一下搜索按钮","bbox":[774,17,874,61]},"thought":""} hasBbox=true
+[2026-05-07T15:00:36.332+08:00] executing action Tap {
+  locate: {
+    rect: { left: 774, top: 17, width: 101, height: 45 },
+    center: [ 824, 39 ],
+    description: '百度一下搜索按钮'
+  }
+} taskContext.element.center: 824,39
+[2026-05-07T15:00:36.332+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T15:00:36.332+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T15:00:36.539+08:00] calling action Tap
+[2026-05-07T15:00:36.551+08:00] called action Tap result: undefined
+[2026-05-07T15:00:36.851+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T15:00:41.856+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T15:00:50.162+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"蓝色验证滑块","bbox":[494,432,545,474]} locatePlan={"type":"Locate","param":{"prompt":"蓝色验证滑块","bbox":[494,432,545,474]},"thought":""} hasBbox=true
+[2026-05-07T15:00:50.162+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块目标位置","bbox":[622,432,673,474]} locatePlan={"type":"Locate","param":{"prompt":"滑块目标位置","bbox":[622,432,673,474]},"thought":""} hasBbox=true
+[2026-05-07T15:00:50.173+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 494, top: 432, width: 52, height: 43 },
+    center: [ 519, 453 ],
+    description: '蓝色验证滑块'
+  },
+  to: {
+    rect: { left: 622, top: 432, width: 52, height: 43 },
+    center: [ 647, 453 ],
+    description: '滑块目标位置'
+  }
+} taskContext.element.center: 647,453
+[2026-05-07T15:00:50.173+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T15:00:50.173+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T15:00:50.387+08:00] calling action DragAndDrop
+[2026-05-07T15:00:51.977+08:00] called action DragAndDrop result: undefined
+[2026-05-07T15:00:52.287+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T15:00:57.298+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T15:01:07.462+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"蓝色验证滑块","bbox":[497,454,553,484]} locatePlan={"type":"Locate","param":{"prompt":"蓝色验证滑块","bbox":[497,454,553,484]},"thought":""} hasBbox=true
+[2026-05-07T15:01:07.462+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块目标位置","bbox":[663,454,719,484]} locatePlan={"type":"Locate","param":{"prompt":"滑块目标位置","bbox":[663,454,719,484]},"thought":""} hasBbox=true
+[2026-05-07T15:01:07.472+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 497, top: 454, width: 57, height: 31 },
+    center: [ 525, 469 ],
+    description: '蓝色验证滑块'
+  },
+  to: {
+    rect: { left: 663, top: 454, width: 57, height: 31 },
+    center: [ 691, 469 ],
+    description: '滑块目标位置'
+  }
+} taskContext.element.center: 691,469
+[2026-05-07T15:01:07.472+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T15:01:07.472+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T15:01:07.682+08:00] calling action DragAndDrop
+[2026-05-07T15:01:09.223+08:00] called action DragAndDrop result: undefined
+[2026-05-07T15:01:09.534+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T15:01:09.557+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T15:01:21.780+08:00] will prepend locate param for field action.type=Tap param={"prompt":"第一个搜索结果标题Midscene - Vision-Driven UI Automation","bbox":[146,120,476,141]} locatePlan={"type":"Locate","param":{"prompt":"第一个搜索结果标题Midscene - Vision-Driven UI Automation","bbox":[146,120,476,141]},"thought":""} hasBbox=true
+[2026-05-07T15:01:21.791+08:00] executing action Tap {
+  locate: {
+    rect: { left: 146, top: 120, width: 331, height: 22 },
+    center: [ 311, 130 ],
+    description: '第一个搜索结果标题Midscene - Vision-Driven UI Automation'
+  }
+} taskContext.element.center: 311,130
+[2026-05-07T15:01:21.791+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T15:01:21.791+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T15:01:21.999+08:00] calling action Tap
+[2026-05-07T15:01:22.042+08:00] called action Tap result: undefined
+[2026-05-07T15:01:22.358+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T15:01:22.640+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T15:01:42.925+08:00] will prepend locate param for field action.type=Tap param={"prompt":"蓝色的Documentation按钮","bbox":[32,620,192,668]} locatePlan={"type":"Locate","param":{"prompt":"蓝色的Documentation按钮","bbox":[32,620,192,668]},"thought":""} hasBbox=true
+[2026-05-07T15:01:42.936+08:00] executing action Tap {
+  locate: {
+    rect: { left: 32, top: 620, width: 161, height: 49 },
+    center: [ 112, 644 ],
+    description: '蓝色的Documentation按钮'
+  }
+} taskContext.element.center: 112,644
+[2026-05-07T15:01:42.936+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T15:01:42.936+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T15:01:43.147+08:00] calling action Tap
+[2026-05-07T15:01:43.164+08:00] called action Tap result: undefined
+[2026-05-07T15:01:43.477+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T15:01:43.492+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T15:01:56.867+08:00] will prepend locate param for field action.type=Tap param={"prompt":"蓝色的使用文档按钮，即文档按钮","bbox":[32,607,138,655]} locatePlan={"type":"Locate","param":{"prompt":"蓝色的使用文档按钮，即文档按钮","bbox":[32,607,138,655]},"thought":""} hasBbox=true
+[2026-05-07T15:01:56.878+08:00] executing action Tap {
+  locate: {
+    rect: { left: 32, top: 607, width: 107, height: 49 },
+    center: [ 85, 631 ],
+    description: '蓝色的使用文档按钮，即文档按钮'
+  }
+} taskContext.element.center: 85,631
+[2026-05-07T15:01:56.878+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T15:01:56.878+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T15:01:57.092+08:00] calling action Tap
+[2026-05-07T15:01:57.119+08:00] called action Tap result: undefined
+[2026-05-07T15:01:57.420+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T15:01:57.436+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:08:55.211+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名/账户输入框","bbox":[576,284,922,335]} locatePlan={"type":"Locate","param":{"prompt":"用户名/账户输入框","bbox":[576,284,922,335]},"thought":""} hasBbox=true
+[2026-05-07T16:08:55.220+08:00] executing action Input {
+  value: '19017539',
+  locate: {
+    rect: { left: 576, top: 284, width: 347, height: 52 },
+    center: [ 749, 309 ],
+    description: '用户名/账户输入框'
+  }
+} taskContext.element.center: 749,309
+[2026-05-07T16:08:55.220+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:08:55.220+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:08:55.430+08:00] calling action Input
+[2026-05-07T16:08:56.303+08:00] called action Input result: undefined
+[2026-05-07T16:08:56.614+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:09:01.630+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:09:18.390+08:00] will prepend locate param for field action.type=Tap param={"prompt":"密码输入框，带有占位符“密码”","bbox":[580,350,919,395]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框，带有占位符“密码”","bbox":[580,350,919,395]},"thought":""} hasBbox=true
+[2026-05-07T16:10:40.368+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[581,289,918,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[581,289,918,330]},"thought":""} hasBbox=true
+[2026-05-07T16:10:40.376+08:00] executing action Tap {
+  locate: {
+    rect: { left: 581, top: 289, width: 338, height: 42 },
+    center: [ 749, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 749,309
+[2026-05-07T16:10:40.376+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:10:40.376+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:10:40.590+08:00] calling action Tap
+[2026-05-07T16:10:40.596+08:00] called action Tap result: undefined
+[2026-05-07T16:10:40.899+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:10:45.926+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:10:53.944+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名输入框","bbox":[581,289,918,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[581,289,918,330]},"thought":""} hasBbox=true
+[2026-05-07T16:10:53.951+08:00] executing action Input {
+  value: '19017539',
+  locate: {
+    rect: { left: 581, top: 289, width: 338, height: 42 },
+    center: [ 749, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 749,309
+[2026-05-07T16:10:53.951+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:10:53.951+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:10:54.155+08:00] calling action Input
+[2026-05-07T16:10:55.030+08:00] called action Input result: undefined
+[2026-05-07T16:10:55.339+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:11:00.361+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:11:14.706+08:00] will prepend locate param for field action.type=Tap param={"prompt":"密码输入框","bbox":[581,351,922,395]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[581,351,922,395]},"thought":""} hasBbox=true
+[2026-05-07T16:11:14.712+08:00] executing action Tap {
+  locate: {
+    rect: { left: 581, top: 351, width: 342, height: 45 },
+    center: [ 751, 373 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 751,373
+[2026-05-07T16:11:14.712+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:11:14.712+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:11:14.913+08:00] calling action Tap
+[2026-05-07T16:11:14.922+08:00] called action Tap result: undefined
+[2026-05-07T16:11:15.225+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:11:17.826+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:12:15.553+08:00] will prepend locate param for field action.type=Tap param={"prompt":"the username/account input box on the login form","bbox":[581,289,920,330]} locatePlan={"type":"Locate","param":{"prompt":"the username/account input box on the login form","bbox":[581,289,920,330]},"thought":""} hasBbox=true
+[2026-05-07T16:12:15.560+08:00] executing action Tap {
+  locate: {
+    rect: { left: 581, top: 289, width: 340, height: 42 },
+    center: [ 750, 309 ],
+    description: 'the username/account input box on the login form'
+  }
+} taskContext.element.center: 750,309
+[2026-05-07T16:12:15.560+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:12:15.560+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:12:15.768+08:00] calling action Tap
+[2026-05-07T16:12:15.774+08:00] called action Tap result: undefined
+[2026-05-07T16:12:16.078+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:12:21.085+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:12:29.531+08:00] will prepend locate param for field action.type=Input param={"prompt":"the username/account input box on the login form","bbox":[581,289,920,330]} locatePlan={"type":"Locate","param":{"prompt":"the username/account input box on the login form","bbox":[581,289,920,330]},"thought":""} hasBbox=true
+[2026-05-07T16:12:29.537+08:00] executing action Input {
+  value: '19017539',
+  locate: {
+    rect: { left: 581, top: 289, width: 340, height: 42 },
+    center: [ 750, 309 ],
+    description: 'the username/account input box on the login form'
+  }
+} taskContext.element.center: 750,309
+[2026-05-07T16:12:29.537+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:12:29.537+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:12:29.741+08:00] calling action Input
+[2026-05-07T16:12:30.633+08:00] called action Input result: undefined
+[2026-05-07T16:12:30.943+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:12:35.954+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:15:19.358+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[580,288,922,331]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[580,288,922,331]},"thought":""} hasBbox=true
+[2026-05-07T16:15:19.369+08:00] executing action Tap {
+  locate: {
+    rect: { left: 580, top: 288, width: 343, height: 44 },
+    center: [ 751, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 751,309
+[2026-05-07T16:15:19.370+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:15:19.370+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:15:19.584+08:00] calling action Tap
+[2026-05-07T16:15:19.593+08:00] called action Tap result: undefined
+[2026-05-07T16:15:19.907+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:15:24.917+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:15:31.236+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名输入框","bbox":[580,288,922,331]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[580,288,922,331]},"thought":""} hasBbox=true
+[2026-05-07T16:15:31.241+08:00] executing action Input {
+  value: '19017539',
+  locate: {
+    rect: { left: 580, top: 288, width: 343, height: 44 },
+    center: [ 751, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 751,309
+[2026-05-07T16:15:31.241+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:15:31.241+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:15:31.445+08:00] calling action Input
+[2026-05-07T16:15:32.321+08:00] called action Input result: undefined
+[2026-05-07T16:15:32.631+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:15:37.649+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:15:44.816+08:00] will prepend locate param for field action.type=Tap param={"prompt":"密码输入框","bbox":[580,360,922,396]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[580,360,922,396]},"thought":""} hasBbox=true
+[2026-05-07T16:15:44.823+08:00] executing action Tap {
+  locate: {
+    rect: { left: 580, top: 360, width: 343, height: 37 },
+    center: [ 751, 378 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 751,378
+[2026-05-07T16:15:44.823+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:15:44.823+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:15:45.038+08:00] calling action Tap
+[2026-05-07T16:15:45.045+08:00] called action Tap result: undefined
+[2026-05-07T16:15:45.347+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:15:50.359+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:15:57.746+08:00] will prepend locate param for field action.type=Input param={"prompt":"密码输入框","bbox":[580,360,922,396]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[580,360,922,396]},"thought":""} hasBbox=true
+[2026-05-07T16:15:57.752+08:00] executing action Input {
+  value: 's05311330',
+  locate: {
+    rect: { left: 580, top: 360, width: 343, height: 37 },
+    center: [ 751, 378 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 751,378
+[2026-05-07T16:15:57.752+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:15:57.752+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:15:57.959+08:00] calling action Input
+[2026-05-07T16:15:58.912+08:00] called action Input result: undefined
+[2026-05-07T16:15:59.222+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:16:04.233+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:18:10.661+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[581,288,922,331]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[581,288,922,331]},"thought":""} hasBbox=true
+[2026-05-07T16:18:10.672+08:00] executing action Tap {
+  locate: {
+    rect: { left: 581, top: 288, width: 342, height: 44 },
+    center: [ 751, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 751,309
+[2026-05-07T16:18:10.672+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:18:10.672+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:18:10.885+08:00] calling action Tap
+[2026-05-07T16:18:10.890+08:00] called action Tap result: undefined
+[2026-05-07T16:18:11.201+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:18:16.217+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:18:24.613+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名输入框","bbox":[581,288,922,331]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[581,288,922,331]},"thought":""} hasBbox=true
+[2026-05-07T16:18:24.622+08:00] executing action Input {
+  value: '19017539',
+  locate: {
+    rect: { left: 581, top: 288, width: 342, height: 44 },
+    center: [ 751, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 751,309
+[2026-05-07T16:18:24.622+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:18:24.622+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:18:24.833+08:00] calling action Input
+[2026-05-07T16:18:25.700+08:00] called action Input result: undefined
+[2026-05-07T16:18:26.012+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:18:31.026+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:18:37.743+08:00] will prepend locate param for field action.type=Tap param={"prompt":"密码输入框","bbox":[581,364,922,392]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[581,364,922,392]},"thought":""} hasBbox=true
+[2026-05-07T16:18:37.751+08:00] executing action Tap {
+  locate: {
+    rect: { left: 581, top: 364, width: 342, height: 29 },
+    center: [ 751, 378 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 751,378
+[2026-05-07T16:18:37.751+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:18:37.751+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:18:37.957+08:00] calling action Tap
+[2026-05-07T16:18:37.965+08:00] called action Tap result: undefined
+[2026-05-07T16:18:38.272+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:18:41.509+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:20:54.279+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[580,288,920,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[580,288,920,330]},"thought":""} hasBbox=true
+[2026-05-07T16:20:54.287+08:00] executing action Tap {
+  locate: {
+    rect: { left: 580, top: 288, width: 341, height: 43 },
+    center: [ 750, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 750,309
+[2026-05-07T16:20:54.287+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:20:54.287+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:20:54.496+08:00] calling action Tap
+[2026-05-07T16:20:54.501+08:00] called action Tap result: undefined
+[2026-05-07T16:20:54.809+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:20:59.831+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:21:06.461+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名输入框","bbox":[580,288,920,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[580,288,920,330]},"thought":""} hasBbox=true
+[2026-05-07T16:21:06.466+08:00] executing action Input {
+  value: '19017539',
+  locate: {
+    rect: { left: 580, top: 288, width: 341, height: 43 },
+    center: [ 750, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 750,309
+[2026-05-07T16:21:06.466+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:21:06.466+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:21:06.670+08:00] calling action Input
+[2026-05-07T16:21:07.532+08:00] called action Input result: undefined
+[2026-05-07T16:21:07.841+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:21:12.842+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:21:20.474+08:00] will prepend locate param for field action.type=Tap param={"prompt":"密码输入框","bbox":[580,364,920,397]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[580,364,920,397]},"thought":""} hasBbox=true
+[2026-05-07T16:21:20.480+08:00] executing action Tap {
+  locate: {
+    rect: { left: 580, top: 364, width: 341, height: 34 },
+    center: [ 750, 380 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 750,380
+[2026-05-07T16:21:20.480+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:21:20.480+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:21:20.682+08:00] calling action Tap
+[2026-05-07T16:21:20.690+08:00] called action Tap result: undefined
+[2026-05-07T16:21:20.995+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:21:26.002+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:21:33.868+08:00] will prepend locate param for field action.type=Input param={"prompt":"密码输入框","bbox":[580,364,920,397]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[580,364,920,397]},"thought":""} hasBbox=true
+[2026-05-07T16:21:33.875+08:00] executing action Input {
+  value: 's05311330',
+  locate: {
+    rect: { left: 580, top: 364, width: 341, height: 34 },
+    center: [ 750, 380 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 750,380
+[2026-05-07T16:21:33.875+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:21:33.875+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:21:34.078+08:00] calling action Input
+[2026-05-07T16:21:35.032+08:00] called action Input result: undefined
+[2026-05-07T16:21:35.342+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:21:40.352+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:22:23.757+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块验证的左侧滑块","bbox":[576,415,631,462]} locatePlan={"type":"Locate","param":{"prompt":"滑块验证的左侧滑块","bbox":[576,415,631,462]},"thought":""} hasBbox=true
+[2026-05-07T16:22:23.757+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块验证区域的最右侧","bbox":[904,415,919,462]} locatePlan={"type":"Locate","param":{"prompt":"滑块验证区域的最右侧","bbox":[904,415,919,462]},"thought":""} hasBbox=true
+[2026-05-07T16:22:23.767+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 415, width: 56, height: 48 },
+    center: [ 603, 438 ],
+    description: '滑块验证的左侧滑块'
+  },
+  to: {
+    rect: { left: 904, top: 415, width: 16, height: 48 },
+    center: [ 911, 438 ],
+    description: '滑块验证区域的最右侧'
+  }
+} taskContext.element.center: 911,438
+[2026-05-07T16:22:23.767+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:22:23.767+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:22:23.968+08:00] calling action DragAndDrop
+[2026-05-07T16:22:25.534+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:22:25.846+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:22:30.860+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:22:41.530+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的左侧箭头滑块","bbox":[577,418,628,461]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的左侧箭头滑块","bbox":[577,418,628,461]},"thought":""} hasBbox=true
+[2026-05-07T16:22:41.530+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域的最右侧终点位置","bbox":[896,418,915,461]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域的最右侧终点位置","bbox":[896,418,915,461]},"thought":""} hasBbox=true
+[2026-05-07T16:22:41.541+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 577, top: 418, width: 52, height: 44 },
+    center: [ 602, 439 ],
+    description: '向右滑动验证的左侧箭头滑块'
+  },
+  to: {
+    rect: { left: 896, top: 418, width: 20, height: 44 },
+    center: [ 905, 439 ],
+    description: '向右滑动验证区域的最右侧终点位置'
+  }
+} taskContext.element.center: 905,439
+[2026-05-07T16:22:41.541+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:22:41.541+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:22:41.742+08:00] calling action DragAndDrop
+[2026-05-07T16:22:43.309+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:22:43.618+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:22:48.621+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:22:59.136+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的左侧箭头滑块","bbox":[580,418,625,459]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的左侧箭头滑块","bbox":[580,418,625,459]},"thought":""} hasBbox=true
+[2026-05-07T16:22:59.136+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的最右侧终点","bbox":[899,418,909,459]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的最右侧终点","bbox":[899,418,909,459]},"thought":""} hasBbox=true
+[2026-05-07T16:22:59.150+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 580, top: 418, width: 46, height: 42 },
+    center: [ 602, 438 ],
+    description: '向右滑动验证的左侧箭头滑块'
+  },
+  to: {
+    rect: { left: 899, top: 418, width: 11, height: 42 },
+    center: [ 904, 438 ],
+    description: '向右滑动验证的最右侧终点'
+  }
+} taskContext.element.center: 904,438
+[2026-05-07T16:22:59.150+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:22:59.150+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:22:59.363+08:00] calling action DragAndDrop
+[2026-05-07T16:23:00.935+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:23:01.247+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:23:06.250+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:23:15.212+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的箭头滑块起点","bbox":[576,416,627,461]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的箭头滑块起点","bbox":[576,416,627,461]},"thought":""} hasBbox=true
+[2026-05-07T16:23:15.212+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域最右端终点位置","bbox":[902,416,915,461]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域最右端终点位置","bbox":[902,416,915,461]},"thought":""} hasBbox=true
+[2026-05-07T16:23:15.225+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 416, width: 52, height: 46 },
+    center: [ 601, 438 ],
+    description: '向右滑动验证的箭头滑块起点'
+  },
+  to: {
+    rect: { left: 902, top: 416, width: 14, height: 46 },
+    center: [ 908, 438 ],
+    description: '向右滑动验证区域最右端终点位置'
+  }
+} taskContext.element.center: 908,438
+[2026-05-07T16:23:15.225+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:23:15.225+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:23:15.434+08:00] calling action DragAndDrop
+[2026-05-07T16:23:59.340+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[580,288,922,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[580,288,922,330]},"thought":""} hasBbox=true
+[2026-05-07T16:23:59.348+08:00] executing action Tap {
+  locate: {
+    rect: { left: 580, top: 288, width: 343, height: 43 },
+    center: [ 751, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 751,309
+[2026-05-07T16:23:59.348+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:23:59.348+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:23:59.562+08:00] calling action Tap
+[2026-05-07T16:23:59.568+08:00] called action Tap result: undefined
+[2026-05-07T16:23:59.872+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:24:04.882+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:24:10.637+08:00] field 'locate' is not provided for action Input
+[2026-05-07T16:24:10.640+08:00] executing action Input { value: '19017539' } taskContext.element.center: undefined
+[2026-05-07T16:24:10.641+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:24:10.641+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:24:10.844+08:00] calling action Input
+[2026-05-07T16:24:11.597+08:00] called action Input result: undefined
+[2026-05-07T16:24:11.905+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:24:16.915+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:24:23.938+08:00] will prepend locate param for field action.type=Tap param={"prompt":"密码输入框","bbox":[580,356,922,394]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[580,356,922,394]},"thought":""} hasBbox=true
+[2026-05-07T16:24:23.946+08:00] executing action Tap {
+  locate: {
+    rect: { left: 580, top: 356, width: 343, height: 39 },
+    center: [ 751, 375 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 751,375
+[2026-05-07T16:24:23.946+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:24:23.946+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:24:24.159+08:00] calling action Tap
+[2026-05-07T16:24:24.161+08:00] called action Tap result: undefined
+[2026-05-07T16:24:24.467+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:24:29.481+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:24:35.210+08:00] field 'locate' is not provided for action Input
+[2026-05-07T16:24:35.216+08:00] executing action Input { value: 's05311330' } taskContext.element.center: undefined
+[2026-05-07T16:24:35.216+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:24:35.216+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:24:35.422+08:00] calling action Input
+[2026-05-07T16:24:36.276+08:00] called action Input result: undefined
+[2026-05-07T16:24:36.584+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:24:41.590+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:24:53.746+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[580,306,922,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[580,306,922,330]},"thought":""} hasBbox=true
+[2026-05-07T16:24:53.754+08:00] executing action Tap {
+  locate: {
+    rect: { left: 580, top: 306, width: 343, height: 25 },
+    center: [ 751, 318 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 751,318
+[2026-05-07T16:24:53.754+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:24:53.754+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:24:53.957+08:00] calling action Tap
+[2026-05-07T16:24:53.960+08:00] called action Tap result: undefined
+[2026-05-07T16:24:54.269+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:24:59.277+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:25:45.895+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块箭头按钮","bbox":[573,415,628,463]} locatePlan={"type":"Locate","param":{"prompt":"滑块箭头按钮","bbox":[573,415,628,463]},"thought":""} hasBbox=true
+[2026-05-07T16:25:45.895+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"验证区域最右端","bbox":[906,415,919,463]} locatePlan={"type":"Locate","param":{"prompt":"验证区域最右端","bbox":[906,415,919,463]},"thought":""} hasBbox=true
+[2026-05-07T16:25:45.904+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 573, top: 415, width: 56, height: 49 },
+    center: [ 600, 439 ],
+    description: '滑块箭头按钮'
+  },
+  to: {
+    rect: { left: 906, top: 415, width: 14, height: 49 },
+    center: [ 912, 439 ],
+    description: '验证区域最右端'
+  }
+} taskContext.element.center: 912,439
+[2026-05-07T16:25:45.904+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:25:45.904+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:25:46.119+08:00] calling action DragAndDrop
+[2026-05-07T16:25:47.710+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:25:48.022+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:25:53.034+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:26:04.273+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"验证滑块箭头","bbox":[579,418,627,461]} locatePlan={"type":"Locate","param":{"prompt":"验证滑块箭头","bbox":[579,418,627,461]},"thought":""} hasBbox=true
+[2026-05-07T16:26:04.273+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证区域最右侧","bbox":[896,418,909,461]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证区域最右侧","bbox":[896,418,909,461]},"thought":""} hasBbox=true
+[2026-05-07T16:26:34.130+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[576,287,924,333]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[576,287,924,333]},"thought":""} hasBbox=true
+[2026-05-07T16:26:34.139+08:00] executing action Tap {
+  locate: {
+    rect: { left: 576, top: 287, width: 349, height: 47 },
+    center: [ 750, 310 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 750,310
+[2026-05-07T16:26:34.139+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:26:34.139+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:26:34.350+08:00] calling action Tap
+[2026-05-07T16:26:34.356+08:00] called action Tap result: undefined
+[2026-05-07T16:26:34.662+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:26:39.676+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:26:46.076+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名输入框","bbox":[576,287,924,333]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[576,287,924,333]},"thought":""} hasBbox=true
+[2026-05-07T16:26:46.081+08:00] executing action Input {
+  value: '19017539',
+  locate: {
+    rect: { left: 576, top: 287, width: 349, height: 47 },
+    center: [ 750, 310 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 750,310
+[2026-05-07T16:26:46.081+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:26:46.081+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:26:46.287+08:00] calling action Input
+[2026-05-07T16:26:47.162+08:00] called action Input result: undefined
+[2026-05-07T16:26:47.475+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:26:52.482+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:27:13.563+08:00] will prepend locate param for field action.type=Tap param={"prompt":"密码输入框","bbox":[577,353,925,395]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[577,353,925,395]},"thought":""} hasBbox=true
+[2026-05-07T16:27:13.569+08:00] executing action Tap {
+  locate: {
+    rect: { left: 577, top: 353, width: 349, height: 43 },
+    center: [ 751, 374 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 751,374
+[2026-05-07T16:27:13.569+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:27:13.569+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:27:13.771+08:00] calling action Tap
+[2026-05-07T16:27:13.775+08:00] called action Tap result: undefined
+[2026-05-07T16:27:14.085+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:27:19.099+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:27:25.424+08:00] will prepend locate param for field action.type=Input param={"prompt":"密码输入框","bbox":[577,353,925,395]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[577,353,925,395]},"thought":""} hasBbox=true
+[2026-05-07T16:27:25.431+08:00] executing action Input {
+  value: 's05311330',
+  locate: {
+    rect: { left: 577, top: 353, width: 349, height: 43 },
+    center: [ 751, 374 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 751,374
+[2026-05-07T16:27:25.431+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:27:25.431+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:27:25.636+08:00] calling action Input
+[2026-05-07T16:27:26.592+08:00] called action Input result: undefined
+[2026-05-07T16:27:26.902+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:27:31.921+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:27:50.162+08:00] will prepend locate param for field action.type=Tap param={"prompt":"蓝色的登录按钮","bbox":[576,479,694,513]} locatePlan={"type":"Locate","param":{"prompt":"蓝色的登录按钮","bbox":[576,479,694,513]},"thought":""} hasBbox=true
+[2026-05-07T16:27:50.168+08:00] executing action Tap {
+  locate: {
+    rect: { left: 576, top: 479, width: 119, height: 35 },
+    center: [ 635, 496 ],
+    description: '蓝色的登录按钮'
+  }
+} taskContext.element.center: 635,496
+[2026-05-07T16:27:50.169+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:27:50.169+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:27:50.370+08:00] calling action Tap
+[2026-05-07T16:27:50.378+08:00] called action Tap result: undefined
+[2026-05-07T16:27:50.681+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:27:55.698+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:28:31.045+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证的滑块","bbox":[577,416,622,461]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证的滑块","bbox":[577,416,622,461]},"thought":""} hasBbox=true
+[2026-05-07T16:28:31.046+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证条的最右侧位置","bbox":[897,416,915,461]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证条的最右侧位置","bbox":[897,416,915,461]},"thought":""} hasBbox=true
+[2026-05-07T16:28:31.056+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 577, top: 416, width: 46, height: 46 },
+    center: [ 599, 438 ],
+    description: '滑动验证的滑块'
+  },
+  to: {
+    rect: { left: 897, top: 416, width: 19, height: 46 },
+    center: [ 906, 438 ],
+    description: '滑动验证条的最右侧位置'
+  }
+} taskContext.element.center: 906,438
+[2026-05-07T16:28:31.056+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:28:31.056+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:28:31.269+08:00] calling action DragAndDrop
+[2026-05-07T16:28:32.845+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:28:33.154+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:28:38.168+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:28:48.872+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证的左侧滑块","bbox":[580,418,628,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证的左侧滑块","bbox":[580,418,628,462]},"thought":""} hasBbox=true
+[2026-05-07T16:28:48.872+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证条的最右侧","bbox":[900,418,913,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证条的最右侧","bbox":[900,418,913,462]},"thought":""} hasBbox=true
+[2026-05-07T16:28:48.885+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 580, top: 418, width: 49, height: 45 },
+    center: [ 604, 440 ],
+    description: '滑动验证的左侧滑块'
+  },
+  to: {
+    rect: { left: 900, top: 418, width: 14, height: 45 },
+    center: [ 906, 440 ],
+    description: '滑动验证条的最右侧'
+  }
+} taskContext.element.center: 906,440
+[2026-05-07T16:28:48.885+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:28:48.885+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:28:49.098+08:00] calling action DragAndDrop
+[2026-05-07T16:28:50.689+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:28:51.002+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:28:51.314+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:33:09.100+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[579,289,919,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[579,289,919,330]},"thought":""} hasBbox=true
+[2026-05-07T16:33:09.108+08:00] executing action Tap {
+  locate: {
+    rect: { left: 579, top: 289, width: 341, height: 42 },
+    center: [ 749, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 749,309
+[2026-05-07T16:33:09.108+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:33:09.108+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:33:09.320+08:00] calling action Tap
+[2026-05-07T16:33:09.325+08:00] called action Tap result: undefined
+[2026-05-07T16:33:09.630+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:33:14.644+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:33:22.177+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名输入框","bbox":[579,289,919,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[579,289,919,330]},"thought":""} hasBbox=true
+[2026-05-07T16:33:22.184+08:00] executing action Input {
+  value: '19017539',
+  locate: {
+    rect: { left: 579, top: 289, width: 341, height: 42 },
+    center: [ 749, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 749,309
+[2026-05-07T16:33:22.184+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:33:22.184+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:33:22.387+08:00] calling action Input
+[2026-05-07T16:33:23.252+08:00] called action Input result: undefined
+[2026-05-07T16:33:23.561+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:33:28.570+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:33:56.985+08:00] will prepend locate param for field action.type=Input param={"prompt":"密码输入框","bbox":[576,350,919,395]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[576,350,919,395]},"thought":""} hasBbox=true
+[2026-05-07T16:33:56.991+08:00] executing action Input {
+  value: 's05311330',
+  locate: {
+    rect: { left: 576, top: 350, width: 344, height: 46 },
+    center: [ 747, 372 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 747,372
+[2026-05-07T16:33:56.991+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:33:56.991+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:33:57.193+08:00] calling action Input
+[2026-05-07T16:33:58.164+08:00] called action Input result: undefined
+[2026-05-07T16:33:58.478+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:34:03.487+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:34:23.320+08:00] will prepend locate param for field action.type=Tap param={"prompt":"the blue \"登录\" (Login) button on the login form","bbox":[573,479,692,513]} locatePlan={"type":"Locate","param":{"prompt":"the blue \"登录\" (Login) button on the login form","bbox":[573,479,692,513]},"thought":""} hasBbox=true
+[2026-05-07T16:34:23.326+08:00] executing action Tap {
+  locate: {
+    rect: { left: 573, top: 479, width: 120, height: 35 },
+    center: [ 632, 496 ],
+    description: 'the blue "登录" (Login) button on the login form'
+  }
+} taskContext.element.center: 632,496
+[2026-05-07T16:34:23.326+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:34:23.326+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:34:23.529+08:00] calling action Tap
+[2026-05-07T16:34:23.540+08:00] called action Tap result: undefined
+[2026-05-07T16:34:23.841+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:34:28.851+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:34:42.039+08:00] will prepend locate param for field action.type=Tap param={"prompt":"the blue \"登录\" (Login) button on the login form","bbox":[573,479,692,513]} locatePlan={"type":"Locate","param":{"prompt":"the blue \"登录\" (Login) button on the login form","bbox":[573,479,692,513]},"thought":""} hasBbox=true
+[2026-05-07T16:34:42.046+08:00] executing action Tap {
+  locate: {
+    rect: { left: 573, top: 479, width: 120, height: 35 },
+    center: [ 632, 496 ],
+    description: 'the blue "登录" (Login) button on the login form'
+  }
+} taskContext.element.center: 632,496
+[2026-05-07T16:34:42.046+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:34:42.046+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:34:42.253+08:00] calling action Tap
+[2026-05-07T16:34:42.259+08:00] called action Tap result: undefined
+[2026-05-07T16:34:42.566+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:34:47.576+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:35:25.305+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块验证的左侧滑块按钮","bbox":[577,415,626,463]} locatePlan={"type":"Locate","param":{"prompt":"滑块验证的左侧滑块按钮","bbox":[577,415,626,463]},"thought":""} hasBbox=true
+[2026-05-07T16:35:25.305+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块验证区域的最右侧","bbox":[904,415,919,463]} locatePlan={"type":"Locate","param":{"prompt":"滑块验证区域的最右侧","bbox":[904,415,919,463]},"thought":""} hasBbox=true
+[2026-05-07T16:35:25.316+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 577, top: 415, width: 50, height: 49 },
+    center: [ 601, 439 ],
+    description: '滑块验证的左侧滑块按钮'
+  },
+  to: {
+    rect: { left: 904, top: 415, width: 16, height: 49 },
+    center: [ 911, 439 ],
+    description: '滑块验证区域的最右侧'
+  }
+} taskContext.element.center: 911,439
+[2026-05-07T16:35:25.316+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:35:25.316+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:35:25.527+08:00] calling action DragAndDrop
+[2026-05-07T16:35:28.102+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:35:28.414+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:35:33.417+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:35:42.523+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的左侧滑块箭头按钮","bbox":[576,414,625,462]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的左侧滑块箭头按钮","bbox":[576,414,625,462]},"thought":""} hasBbox=true
+[2026-05-07T16:35:42.523+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域的最右端位置","bbox":[896,414,916,462]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域的最右端位置","bbox":[896,414,916,462]},"thought":""} hasBbox=true
+[2026-05-07T16:35:42.538+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 414, width: 50, height: 49 },
+    center: [ 600, 438 ],
+    description: '向右滑动验证的左侧滑块箭头按钮'
+  },
+  to: {
+    rect: { left: 896, top: 414, width: 21, height: 49 },
+    center: [ 906, 438 ],
+    description: '向右滑动验证区域的最右端位置'
+  }
+} taskContext.element.center: 906,438
+[2026-05-07T16:35:42.538+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:35:42.538+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:35:42.742+08:00] calling action DragAndDrop
+[2026-05-07T16:35:49.377+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:35:49.688+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:35:54.688+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:05.574+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的箭头滑块","bbox":[579,418,622,459]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的箭头滑块","bbox":[579,418,622,459]},"thought":""} hasBbox=true
+[2026-05-07T16:36:05.574+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域的最右侧端点","bbox":[901,418,906,459]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域的最右侧端点","bbox":[901,418,906,459]},"thought":""} hasBbox=true
+[2026-05-07T16:36:05.588+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 579, top: 418, width: 44, height: 42 },
+    center: [ 600, 438 ],
+    description: '向右滑动验证的箭头滑块'
+  },
+  to: {
+    rect: { left: 901, top: 418, width: 6, height: 42 },
+    center: [ 903, 438 ],
+    description: '向右滑动验证区域的最右侧端点'
+  }
+} taskContext.element.center: 903,438
+[2026-05-07T16:36:05.588+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:05.588+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:05.801+08:00] calling action DragAndDrop
+[2026-05-07T16:36:07.367+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:36:07.674+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:12.675+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:22.547+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的左侧箭头滑块","bbox":[576,416,625,461]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的左侧箭头滑块","bbox":[576,416,625,461]},"thought":""} hasBbox=true
+[2026-05-07T16:36:22.547+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域的最右侧位置","bbox":[906,416,915,461]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域的最右侧位置","bbox":[906,416,915,461]},"thought":""} hasBbox=true
+[2026-05-07T16:36:22.561+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 416, width: 50, height: 46 },
+    center: [ 600, 438 ],
+    description: '向右滑动验证的左侧箭头滑块'
+  },
+  to: {
+    rect: { left: 906, top: 416, width: 10, height: 46 },
+    center: [ 910, 438 ],
+    description: '向右滑动验证区域的最右侧位置'
+  }
+} taskContext.element.center: 910,438
+[2026-05-07T16:36:22.562+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:22.562+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:22.772+08:00] calling action DragAndDrop
+[2026-05-07T16:36:24.339+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:36:24.650+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:29.666+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:36.046+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的左侧箭头滑块","bbox":[576,418,625,459]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的左侧箭头滑块","bbox":[576,418,625,459]},"thought":""} hasBbox=true
+[2026-05-07T16:36:36.046+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域的最右端","bbox":[902,418,909,459]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域的最右端","bbox":[902,418,909,459]},"thought":""} hasBbox=true
+[2026-05-07T16:36:36.063+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 418, width: 50, height: 42 },
+    center: [ 600, 438 ],
+    description: '向右滑动验证的左侧箭头滑块'
+  },
+  to: {
+    rect: { left: 902, top: 418, width: 8, height: 42 },
+    center: [ 905, 438 ],
+    description: '向右滑动验证区域的最右端'
+  }
+} taskContext.element.center: 905,438
+[2026-05-07T16:36:36.063+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:36.063+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:36.271+08:00] calling action DragAndDrop
+[2026-05-07T16:36:37.834+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:36:38.146+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:43.149+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:54.028+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证左侧的箭头滑块","bbox":[576,416,626,460]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证左侧的箭头滑块","bbox":[576,416,626,460]},"thought":""} hasBbox=true
+[2026-05-07T16:36:54.028+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域最右端","bbox":[905,416,914,460]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域最右端","bbox":[905,416,914,460]},"thought":""} hasBbox=true
+[2026-05-07T16:36:54.046+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 416, width: 51, height: 45 },
+    center: [ 601, 438 ],
+    description: '向右滑动验证左侧的箭头滑块'
+  },
+  to: {
+    rect: { left: 905, top: 416, width: 10, height: 45 },
+    center: [ 909, 438 ],
+    description: '向右滑动验证区域最右端'
+  }
+} taskContext.element.center: 909,438
+[2026-05-07T16:36:54.046+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:54.046+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:36:54.260+08:00] calling action DragAndDrop
+[2026-05-07T16:36:55.818+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:36:56.130+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:01.145+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:12.027+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的箭头滑块","bbox":[576,416,626,460]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的箭头滑块","bbox":[576,416,626,460]},"thought":""} hasBbox=true
+[2026-05-07T16:37:12.027+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域的最右端","bbox":[908,416,911,460]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域的最右端","bbox":[908,416,911,460]},"thought":""} hasBbox=true
+[2026-05-07T16:37:12.048+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 416, width: 51, height: 45 },
+    center: [ 601, 438 ],
+    description: '向右滑动验证的箭头滑块'
+  },
+  to: {
+    rect: { left: 908, top: 416, width: 4, height: 45 },
+    center: [ 909, 438 ],
+    description: '向右滑动验证区域的最右端'
+  }
+} taskContext.element.center: 909,438
+[2026-05-07T16:37:12.048+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:12.049+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:12.260+08:00] calling action DragAndDrop
+[2026-05-07T16:37:13.818+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:37:14.130+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:19.130+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:27.213+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证左侧带箭头的滑块","bbox":[573,415,622,462]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证左侧带箭头的滑块","bbox":[573,415,622,462]},"thought":""} hasBbox=true
+[2026-05-07T16:37:27.213+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域的最右端位置","bbox":[904,415,909,462]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域的最右端位置","bbox":[904,415,909,462]},"thought":""} hasBbox=true
+[2026-05-07T16:37:27.233+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 573, top: 415, width: 50, height: 48 },
+    center: [ 597, 438 ],
+    description: '向右滑动验证左侧带箭头的滑块'
+  },
+  to: {
+    rect: { left: 904, top: 415, width: 6, height: 48 },
+    center: [ 906, 438 ],
+    description: '向右滑动验证区域的最右端位置'
+  }
+} taskContext.element.center: 906,438
+[2026-05-07T16:37:27.233+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:27.233+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:27.449+08:00] calling action DragAndDrop
+[2026-05-07T16:37:29.007+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:37:29.320+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:34.332+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:44.444+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证左侧带箭头的滑块按钮","bbox":[575,415,623,461]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证左侧带箭头的滑块按钮","bbox":[575,415,623,461]},"thought":""} hasBbox=true
+[2026-05-07T16:37:44.444+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域的最右端位置","bbox":[902,415,909,461]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域的最右端位置","bbox":[902,415,909,461]},"thought":""} hasBbox=true
+[2026-05-07T16:37:44.469+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 575, top: 415, width: 49, height: 47 },
+    center: [ 599, 438 ],
+    description: '向右滑动验证左侧带箭头的滑块按钮'
+  },
+  to: {
+    rect: { left: 902, top: 415, width: 8, height: 47 },
+    center: [ 905, 438 ],
+    description: '向右滑动验证区域的最右端位置'
+  }
+} taskContext.element.center: 905,438
+[2026-05-07T16:37:44.469+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:44.469+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:44.675+08:00] calling action DragAndDrop
+[2026-05-07T16:37:46.217+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:37:46.530+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:51.534+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:58.536+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的箭头滑块","bbox":[576,418,625,461]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的箭头滑块","bbox":[576,418,625,461]},"thought":""} hasBbox=true
+[2026-05-07T16:37:58.536+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域最右端","bbox":[909,418,915,461]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域最右端","bbox":[909,418,915,461]},"thought":""} hasBbox=true
+[2026-05-07T16:37:58.559+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 418, width: 50, height: 44 },
+    center: [ 600, 439 ],
+    description: '向右滑动验证的箭头滑块'
+  },
+  to: {
+    rect: { left: 909, top: 418, width: 7, height: 44 },
+    center: [ 912, 439 ],
+    description: '向右滑动验证区域最右端'
+  }
+} taskContext.element.center: 912,439
+[2026-05-07T16:37:58.559+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:58.559+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:37:58.770+08:00] calling action DragAndDrop
+[2026-05-07T16:38:00.326+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:38:00.637+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:38:05.646+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:38:13.126+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证左侧带箭头的滑块","bbox":[575,418,623,459]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证左侧带箭头的滑块","bbox":[575,418,623,459]},"thought":""} hasBbox=true
+[2026-05-07T16:38:13.126+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域最右端","bbox":[901,418,909,459]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域最右端","bbox":[901,418,909,459]},"thought":""} hasBbox=true
+[2026-05-07T16:38:13.150+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 575, top: 418, width: 49, height: 42 },
+    center: [ 599, 438 ],
+    description: '向右滑动验证左侧带箭头的滑块'
+  },
+  to: {
+    rect: { left: 901, top: 418, width: 9, height: 42 },
+    center: [ 905, 438 ],
+    description: '向右滑动验证区域最右端'
+  }
+} taskContext.element.center: 905,438
+[2026-05-07T16:38:13.150+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:38:13.150+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:38:13.361+08:00] calling action DragAndDrop
+[2026-05-07T16:38:33.000+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[573,288,922,331]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[573,288,922,331]},"thought":""} hasBbox=true
+[2026-05-07T16:44:01.892+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名（账户）输入框","bbox":[576,289,920,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名（账户）输入框","bbox":[576,289,920,330]},"thought":""} hasBbox=true
+[2026-05-07T16:45:09.789+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名（账户）输入框","bbox":[580,289,920,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名（账户）输入框","bbox":[580,289,920,330]},"thought":""} hasBbox=true
+[2026-05-07T16:47:00.741+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[580,288,922,331]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[580,288,922,331]},"thought":""} hasBbox=true
+[2026-05-07T16:47:00.750+08:00] executing action Tap {
+  locate: {
+    rect: { left: 580, top: 288, width: 343, height: 44 },
+    center: [ 751, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 751,309
+[2026-05-07T16:47:00.750+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:47:00.750+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:47:00.952+08:00] calling action Tap
+[2026-05-07T16:47:00.958+08:00] called action Tap result: undefined
+[2026-05-07T16:47:01.262+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:47:06.276+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:47:12.894+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名输入框","bbox":[580,288,922,331]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[580,288,922,331]},"thought":""} hasBbox=true
+[2026-05-07T16:47:12.900+08:00] executing action Input {
+  value: '19017539',
+  locate: {
+    rect: { left: 580, top: 288, width: 343, height: 44 },
+    center: [ 751, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 751,309
+[2026-05-07T16:47:12.900+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:47:12.900+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:47:13.117+08:00] calling action Input
+[2026-05-07T16:47:13.991+08:00] called action Input result: undefined
+[2026-05-07T16:47:14.301+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:47:19.303+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:47:38.519+08:00] will prepend locate param for field action.type=Tap param={"prompt":"密码输入框","bbox":[581,353,919,395]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[581,353,919,395]},"thought":""} hasBbox=true
+[2026-05-07T16:47:38.525+08:00] executing action Tap {
+  locate: {
+    rect: { left: 581, top: 353, width: 339, height: 43 },
+    center: [ 750, 374 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 750,374
+[2026-05-07T16:47:38.525+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:47:38.525+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:47:38.727+08:00] calling action Tap
+[2026-05-07T16:47:38.731+08:00] called action Tap result: undefined
+[2026-05-07T16:47:39.038+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:47:44.043+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:47:54.127+08:00] will prepend locate param for field action.type=Input param={"prompt":"密码输入框","bbox":[581,353,919,395]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[581,353,919,395]},"thought":""} hasBbox=true
+[2026-05-07T16:47:54.135+08:00] executing action Input {
+  value: 's05311330',
+  locate: {
+    rect: { left: 581, top: 353, width: 339, height: 43 },
+    center: [ 750, 374 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 750,374
+[2026-05-07T16:47:54.135+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:47:54.136+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:47:54.336+08:00] calling action Input
+[2026-05-07T16:47:55.291+08:00] called action Input result: undefined
+[2026-05-07T16:47:55.598+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:48:00.609+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:48:19.263+08:00] will prepend locate param for field action.type=Tap param={"prompt":"蓝色的“登录”按钮","bbox":[577,480,695,513]} locatePlan={"type":"Locate","param":{"prompt":"蓝色的“登录”按钮","bbox":[577,480,695,513]},"thought":""} hasBbox=true
+[2026-05-07T16:48:19.270+08:00] executing action Tap {
+  locate: {
+    rect: { left: 577, top: 480, width: 119, height: 34 },
+    center: [ 636, 496 ],
+    description: '蓝色的“登录”按钮'
+  }
+} taskContext.element.center: 636,496
+[2026-05-07T16:48:19.270+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:48:19.270+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:48:19.485+08:00] calling action Tap
+[2026-05-07T16:48:19.489+08:00] called action Tap result: undefined
+[2026-05-07T16:48:19.798+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:48:24.813+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:49:04.547+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块验证的滑块","bbox":[573,415,625,463]} locatePlan={"type":"Locate","param":{"prompt":"滑块验证的滑块","bbox":[573,415,625,463]},"thought":""} hasBbox=true
+[2026-05-07T16:49:04.547+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块验证区域最右端","bbox":[904,415,919,463]} locatePlan={"type":"Locate","param":{"prompt":"滑块验证区域最右端","bbox":[904,415,919,463]},"thought":""} hasBbox=true
+[2026-05-07T16:49:04.556+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 573, top: 415, width: 53, height: 49 },
+    center: [ 599, 439 ],
+    description: '滑块验证的滑块'
+  },
+  to: {
+    rect: { left: 904, top: 415, width: 16, height: 49 },
+    center: [ 911, 439 ],
+    description: '滑块验证区域最右端'
+  }
+} taskContext.element.center: 911,439
+[2026-05-07T16:49:04.556+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:04.556+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:04.770+08:00] calling action DragAndDrop
+[2026-05-07T16:49:06.358+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:49:06.671+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:11.682+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:20.845+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证的箭头滑块","bbox":[577,416,627,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证的箭头滑块","bbox":[577,416,627,462]},"thought":""} hasBbox=true
+[2026-05-07T16:49:20.845+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证条最右侧终点位置","bbox":[895,416,915,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证条最右侧终点位置","bbox":[895,416,915,462]},"thought":""} hasBbox=true
+[2026-05-07T16:49:20.857+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 577, top: 416, width: 51, height: 47 },
+    center: [ 602, 439 ],
+    description: '滑动验证的箭头滑块'
+  },
+  to: {
+    rect: { left: 895, top: 416, width: 21, height: 47 },
+    center: [ 905, 439 ],
+    description: '滑动验证条最右侧终点位置'
+  }
+} taskContext.element.center: 905,439
+[2026-05-07T16:49:20.857+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:20.857+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:21.069+08:00] calling action DragAndDrop
+[2026-05-07T16:49:22.657+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:49:22.970+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:27.978+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:38.768+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的箭头滑块","bbox":[576,418,630,461]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的箭头滑块","bbox":[576,418,630,461]},"thought":""} hasBbox=true
+[2026-05-07T16:49:38.768+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证条的最右端","bbox":[896,418,916,461]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证条的最右端","bbox":[896,418,916,461]},"thought":""} hasBbox=true
+[2026-05-07T16:49:38.781+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 418, width: 55, height: 44 },
+    center: [ 603, 439 ],
+    description: '向右滑动验证的箭头滑块'
+  },
+  to: {
+    rect: { left: 896, top: 418, width: 21, height: 44 },
+    center: [ 906, 439 ],
+    description: '向右滑动验证条的最右端'
+  }
+} taskContext.element.center: 906,439
+[2026-05-07T16:49:38.782+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:38.782+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:38.992+08:00] calling action DragAndDrop
+[2026-05-07T16:49:40.537+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:49:40.849+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:45.854+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:57.794+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的箭头滑块","bbox":[580,419,626,462]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的箭头滑块","bbox":[580,419,626,462]},"thought":""} hasBbox=true
+[2026-05-07T16:49:57.794+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证条的最右侧","bbox":[900,419,911,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证条的最右侧","bbox":[900,419,911,462]},"thought":""} hasBbox=true
+[2026-05-07T16:49:57.808+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 580, top: 419, width: 47, height: 44 },
+    center: [ 603, 440 ],
+    description: '向右滑动验证的箭头滑块'
+  },
+  to: {
+    rect: { left: 900, top: 419, width: 12, height: 44 },
+    center: [ 905, 440 ],
+    description: '滑动验证条的最右侧'
+  }
+} taskContext.element.center: 905,440
+[2026-05-07T16:49:57.808+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:57.808+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:49:58.017+08:00] calling action DragAndDrop
+[2026-05-07T16:49:59.596+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:49:59.905+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:50:04.916+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:50:12.868+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的箭头滑块","bbox":[579,418,627,464]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的箭头滑块","bbox":[579,418,627,464]},"thought":""} hasBbox=true
+[2026-05-07T16:50:12.868+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"验证条最右侧终点","bbox":[902,418,916,464]} locatePlan={"type":"Locate","param":{"prompt":"验证条最右侧终点","bbox":[902,418,916,464]},"thought":""} hasBbox=true
+[2026-05-07T16:50:12.883+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 579, top: 418, width: 49, height: 47 },
+    center: [ 603, 441 ],
+    description: '向右滑动验证的箭头滑块'
+  },
+  to: {
+    rect: { left: 902, top: 418, width: 15, height: 47 },
+    center: [ 909, 441 ],
+    description: '验证条最右侧终点'
+  }
+} taskContext.element.center: 909,441
+[2026-05-07T16:50:12.883+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:50:12.883+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:50:13.089+08:00] calling action DragAndDrop
+[2026-05-07T16:50:14.652+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:50:14.965+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:50:19.979+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:50:31.182+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的箭头滑块","bbox":[575,414,631,464]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的箭头滑块","bbox":[575,414,631,464]},"thought":""} hasBbox=true
+[2026-05-07T16:50:31.182+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域最右端","bbox":[897,414,914,464]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域最右端","bbox":[897,414,914,464]},"thought":""} hasBbox=true
+[2026-05-07T16:50:31.205+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 575, top: 414, width: 57, height: 51 },
+    center: [ 603, 439 ],
+    description: '向右滑动验证的箭头滑块'
+  },
+  to: {
+    rect: { left: 897, top: 414, width: 18, height: 51 },
+    center: [ 905, 439 ],
+    description: '向右滑动验证区域最右端'
+  }
+} taskContext.element.center: 905,439
+[2026-05-07T16:50:31.205+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:50:31.205+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:50:31.414+08:00] calling action DragAndDrop
+[2026-05-07T16:50:42.589+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:50:42.902+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:50:47.909+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:51:08.382+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的箭头滑块","bbox":[576,432,623,457]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的箭头滑块","bbox":[576,432,623,457]},"thought":""} hasBbox=true
+[2026-05-07T16:51:08.382+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"验证条最右端位置","bbox":[896,432,909,457]} locatePlan={"type":"Locate","param":{"prompt":"验证条最右端位置","bbox":[896,432,909,457]},"thought":""} hasBbox=true
+[2026-05-07T16:51:08.912+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 432, width: 48, height: 26 },
+    center: [ 599, 444 ],
+    description: '向右滑动验证的箭头滑块'
+  },
+  to: {
+    rect: { left: 896, top: 432, width: 14, height: 26 },
+    center: [ 902, 444 ],
+    description: '验证条最右端位置'
+  }
+} taskContext.element.center: 902,444
+[2026-05-07T16:51:08.912+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:51:08.912+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:51:09.120+08:00] calling action DragAndDrop
+[2026-05-07T16:52:05.177+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名（账户）输入框","bbox":[576,289,916,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名（账户）输入框","bbox":[576,289,916,330]},"thought":""} hasBbox=true
+[2026-05-07T16:52:05.183+08:00] executing action Input {
+  value: '19017539',
+  locate: {
+    rect: { left: 576, top: 289, width: 341, height: 42 },
+    center: [ 746, 309 ],
+    description: '用户名（账户）输入框'
+  }
+} taskContext.element.center: 746,309
+[2026-05-07T16:52:05.183+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:52:05.183+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:52:05.393+08:00] calling action Input
+[2026-05-07T16:52:06.288+08:00] called action Input result: undefined
+[2026-05-07T16:52:06.598+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:52:11.610+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:56:11.551+08:00] will prepend locate param for field action.type=Tap param={"prompt":"密码输入框","bbox":[651,349,993,393]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[651,349,993,393]},"thought":""} hasBbox=true
+[2026-05-07T16:56:11.558+08:00] executing action Tap {
+  locate: {
+    rect: { left: 651, top: 349, width: 343, height: 45 },
+    center: [ 822, 371 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 822,371
+[2026-05-07T16:56:11.558+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:56:11.558+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:56:11.766+08:00] calling action Tap
+[2026-05-07T16:56:11.777+08:00] called action Tap result: undefined
+[2026-05-07T16:56:12.091+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:56:17.110+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:56:24.505+08:00] will prepend locate param for field action.type=Input param={"prompt":"密码输入框","bbox":[651,349,993,393]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[651,349,993,393]},"thought":""} hasBbox=true
+[2026-05-07T16:56:24.510+08:00] executing action Input {
+  value: 's05311330',
+  locate: {
+    rect: { left: 651, top: 349, width: 343, height: 45 },
+    center: [ 822, 371 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 822,371
+[2026-05-07T16:56:24.510+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:56:24.510+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T16:56:24.723+08:00] calling action Input
+[2026-05-07T16:56:25.727+08:00] called action Input result: undefined
+[2026-05-07T16:56:26.032+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:56:31.045+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T16:56:51.826+08:00] will prepend locate param for field action.type=Tap param={"prompt":"蓝色的登录按钮","bbox":[644,478,769,516]} locatePlan={"type":"Locate","param":{"prompt":"蓝色的登录按钮","bbox":[644,478,769,516]},"thought":""} hasBbox=true
+[2026-05-07T16:56:51.832+08:00] executing action Tap {
+  locate: {
+    rect: { left: 644, top: 478, width: 126, height: 39 },
+    center: [ 706, 497 ],
+    description: '蓝色的登录按钮'
+  }
+} taskContext.element.center: 706,497
+[2026-05-07T16:56:51.832+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:56:51.832+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:56:52.040+08:00] calling action Tap
+[2026-05-07T16:56:52.046+08:00] called action Tap result: undefined
+[2026-05-07T16:56:52.351+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:56:57.363+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:57:10.077+08:00] will prepend locate param for field action.type=Tap param={"prompt":"蓝色的登录按钮","bbox":[644,478,769,516]} locatePlan={"type":"Locate","param":{"prompt":"蓝色的登录按钮","bbox":[644,478,769,516]},"thought":""} hasBbox=true
+[2026-05-07T16:57:10.083+08:00] executing action Tap {
+  locate: {
+    rect: { left: 644, top: 478, width: 126, height: 39 },
+    center: [ 706, 497 ],
+    description: '蓝色的登录按钮'
+  }
+} taskContext.element.center: 706,497
+[2026-05-07T16:57:10.083+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:57:10.083+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:57:10.294+08:00] calling action Tap
+[2026-05-07T16:57:10.301+08:00] called action Tap result: undefined
+[2026-05-07T16:57:10.606+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:57:15.610+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:57:27.831+08:00] will prepend locate param for field action.type=Tap param={"prompt":"蓝色的登录按钮","bbox":[648,480,765,515]} locatePlan={"type":"Locate","param":{"prompt":"蓝色的登录按钮","bbox":[648,480,765,515]},"thought":""} hasBbox=true
+[2026-05-07T16:57:27.838+08:00] executing action Tap {
+  locate: {
+    rect: { left: 648, top: 480, width: 118, height: 36 },
+    center: [ 706, 497 ],
+    description: '蓝色的登录按钮'
+  }
+} taskContext.element.center: 706,497
+[2026-05-07T16:57:27.838+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:57:27.838+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:57:28.045+08:00] calling action Tap
+[2026-05-07T16:57:28.049+08:00] called action Tap result: undefined
+[2026-05-07T16:57:28.359+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:57:33.363+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:57:40.423+08:00] will prepend locate param for field action.type=Tap param={"prompt":"蓝色登录按钮","bbox":[648,480,765,515]} locatePlan={"type":"Locate","param":{"prompt":"蓝色登录按钮","bbox":[648,480,765,515]},"thought":""} hasBbox=true
+[2026-05-07T16:57:40.431+08:00] executing action Tap {
+  locate: {
+    rect: { left: 648, top: 480, width: 118, height: 36 },
+    center: [ 706, 497 ],
+    description: '蓝色登录按钮'
+  }
+} taskContext.element.center: 706,497
+[2026-05-07T16:57:40.431+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:57:40.431+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T16:57:40.645+08:00] calling action Tap
+[2026-05-07T16:57:40.651+08:00] called action Tap result: undefined
+[2026-05-07T16:57:40.954+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:57:45.956+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T16:58:08.335+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证的滑块","bbox":[648,419,702,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证的滑块","bbox":[648,419,702,462]},"thought":""} hasBbox=true
+[2026-05-07T16:58:08.335+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证区域最右端","bbox":[975,419,987,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证区域最右端","bbox":[975,419,987,462]},"thought":""} hasBbox=true
+[2026-05-07T16:58:08.345+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 648, top: 419, width: 55, height: 44 },
+    center: [ 675, 440 ],
+    description: '滑动验证的滑块'
+  },
+  to: {
+    rect: { left: 975, top: 419, width: 13, height: 44 },
+    center: [ 981, 440 ],
+    description: '滑动验证区域最右端'
+  }
+} taskContext.element.center: 981,440
+[2026-05-07T16:58:08.345+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:58:08.345+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:58:08.551+08:00] calling action DragAndDrop
+[2026-05-07T16:58:10.126+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:58:10.441+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:58:15.459+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:58:24.036+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证的滑块箭头","bbox":[899,428,952,460]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证的滑块箭头","bbox":[899,428,952,460]},"thought":""} hasBbox=true
+[2026-05-07T16:58:24.036+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证区域最右侧","bbox":[1213,430,1229,460]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证区域最右侧","bbox":[1213,430,1229,460]},"thought":""} hasBbox=true
+[2026-05-07T16:58:24.049+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 899, top: 428, width: 54, height: 33 },
+    center: [ 925, 444 ],
+    description: '滑动验证的滑块箭头'
+  },
+  to: {
+    rect: { left: 1213, top: 430, width: 17, height: 31 },
+    center: [ 1221, 445 ],
+    description: '滑动验证区域最右侧'
+  }
+} taskContext.element.center: 1221,445
+[2026-05-07T16:58:24.049+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:58:24.049+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:58:24.261+08:00] calling action DragAndDrop
+[2026-05-07T16:58:25.826+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:58:26.141+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:58:31.155+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:58:37.994+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证的滑块箭头","bbox":[902,432,947,458]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证的滑块箭头","bbox":[902,432,947,458]},"thought":""} hasBbox=true
+[2026-05-07T16:58:37.994+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证区域最右侧","bbox":[1217,432,1225,458]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证区域最右侧","bbox":[1217,432,1225,458]},"thought":""} hasBbox=true
+[2026-05-07T16:58:38.010+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 902, top: 432, width: 46, height: 27 },
+    center: [ 924, 445 ],
+    description: '滑动验证的滑块箭头'
+  },
+  to: {
+    rect: { left: 1217, top: 432, width: 9, height: 27 },
+    center: [ 1221, 445 ],
+    description: '滑动验证区域最右侧'
+  }
+} taskContext.element.center: 1221,445
+[2026-05-07T16:58:38.010+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:58:38.010+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:58:38.217+08:00] calling action DragAndDrop
+[2026-05-07T16:58:39.770+08:00] called action DragAndDrop result: undefined
+[2026-05-07T16:58:40.082+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:58:45.096+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T16:58:54.625+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证的滑块，带箭头的矩形框","bbox":[899,417,956,461]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证的滑块，带箭头的矩形框","bbox":[899,417,956,461]},"thought":""} hasBbox=true
+[2026-05-07T16:58:54.625+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证区域最右侧","bbox":[1225,417,1233,461]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证区域最右侧","bbox":[1225,417,1233,461]},"thought":""} hasBbox=true
+[2026-05-07T17:03:36.293+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名（账户）输入框","bbox":[579,287,919,333]} locatePlan={"type":"Locate","param":{"prompt":"用户名（账户）输入框","bbox":[579,287,919,333]},"thought":""} hasBbox=true
+[2026-05-07T17:03:36.302+08:00] executing action Tap {
+  locate: {
+    rect: { left: 579, top: 287, width: 341, height: 47 },
+    center: [ 749, 310 ],
+    description: '用户名（账户）输入框'
+  }
+} taskContext.element.center: 749,310
+[2026-05-07T17:03:36.302+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:03:36.302+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:03:36.518+08:00] calling action Tap
+[2026-05-07T17:03:36.551+08:00] called action Tap result: undefined
+[2026-05-07T17:03:36.858+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:03:40.510+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:05:21.181+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[580,289,922,331]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[580,289,922,331]},"thought":""} hasBbox=true
+[2026-05-07T17:05:21.189+08:00] executing action Tap {
+  locate: {
+    rect: { left: 580, top: 289, width: 343, height: 43 },
+    center: [ 751, 310 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 751,310
+[2026-05-07T17:05:21.189+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:05:21.189+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:05:21.403+08:00] calling action Tap
+[2026-05-07T17:05:21.408+08:00] called action Tap result: undefined
+[2026-05-07T17:05:21.715+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:05:26.724+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:09:51.021+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名（账户）输入框","bbox":[573,288,922,331]} locatePlan={"type":"Locate","param":{"prompt":"用户名（账户）输入框","bbox":[573,288,922,331]},"thought":""} hasBbox=true
+[2026-05-07T17:11:45.786+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名/账户输入框","bbox":[579,288,920,331]} locatePlan={"type":"Locate","param":{"prompt":"用户名/账户输入框","bbox":[579,288,920,331]},"thought":""} hasBbox=true
+[2026-05-07T17:11:45.795+08:00] executing action Tap {
+  locate: {
+    rect: { left: 579, top: 288, width: 342, height: 44 },
+    center: [ 749, 309 ],
+    description: '用户名/账户输入框'
+  }
+} taskContext.element.center: 749,309
+[2026-05-07T17:11:45.795+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:11:45.795+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:11:46.011+08:00] calling action Tap
+[2026-05-07T17:11:46.028+08:00] called action Tap result: undefined
+[2026-05-07T17:11:46.334+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:11:51.357+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:11:56.615+08:00] field 'locate' is not provided for action Input
+[2026-05-07T17:11:56.619+08:00] executing action Input { value: '19017539' } taskContext.element.center: undefined
+[2026-05-07T17:11:56.619+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:11:56.619+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:11:56.823+08:00] calling action Input
+[2026-05-07T17:11:57.571+08:00] called action Input result: undefined
+[2026-05-07T17:11:57.881+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:12:02.888+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:12:27.755+08:00] will prepend locate param for field action.type=Input param={"prompt":"密码输入框","bbox":[579,351,923,395]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[579,351,923,395]},"thought":""} hasBbox=true
+[2026-05-07T17:12:27.760+08:00] executing action Input {
+  value: 's05311330',
+  locate: {
+    rect: { left: 579, top: 351, width: 345, height: 45 },
+    center: [ 751, 373 ],
+    description: '密码输入框'
+  },
+  mode: 'replace'
+} taskContext.element.center: 751,373
+[2026-05-07T17:12:27.760+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:12:27.761+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:12:27.965+08:00] calling action Input
+[2026-05-07T17:12:28.920+08:00] called action Input result: undefined
+[2026-05-07T17:12:29.231+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:12:34.244+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:12:54.003+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证的滑块箭头","bbox":[573,418,625,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证的滑块箭头","bbox":[573,418,625,462]},"thought":""} hasBbox=true
+[2026-05-07T17:12:54.003+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证条最右端","bbox":[906,418,919,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证条最右端","bbox":[906,418,919,462]},"thought":""} hasBbox=true
+[2026-05-07T17:12:54.010+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 573, top: 418, width: 53, height: 45 },
+    center: [ 599, 440 ],
+    description: '滑动验证的滑块箭头'
+  },
+  to: {
+    rect: { left: 906, top: 418, width: 14, height: 45 },
+    center: [ 912, 440 ],
+    description: '滑动验证条最右端'
+  }
+} taskContext.element.center: 912,440
+[2026-05-07T17:12:54.010+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:12:54.010+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:12:54.214+08:00] calling action DragAndDrop
+[2026-05-07T17:12:55.776+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:12:56.088+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:13:01.089+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:13:13.453+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证的起始滑块","bbox":[576,416,625,461]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证的起始滑块","bbox":[576,416,625,461]},"thought":""} hasBbox=true
+[2026-05-07T17:13:13.453+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证条最右端位置","bbox":[899,416,915,461]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证条最右端位置","bbox":[899,416,915,461]},"thought":""} hasBbox=true
+[2026-05-07T17:13:13.462+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 416, width: 50, height: 46 },
+    center: [ 600, 438 ],
+    description: '滑动验证的起始滑块'
+  },
+  to: {
+    rect: { left: 899, top: 416, width: 17, height: 46 },
+    center: [ 907, 438 ],
+    description: '滑动验证条最右端位置'
+  }
+} taskContext.element.center: 907,438
+[2026-05-07T17:13:13.463+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:13:13.463+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:13:13.664+08:00] calling action DragAndDrop
+[2026-05-07T17:13:15.238+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:13:15.551+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:13:20.563+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:13:29.253+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证的箭头滑块，在最左侧","bbox":[576,419,627,461]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证的箭头滑块，在最左侧","bbox":[576,419,627,461]},"thought":""} hasBbox=true
+[2026-05-07T17:13:29.253+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证条的最右侧末端位置","bbox":[901,419,909,461]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证条的最右侧末端位置","bbox":[901,419,909,461]},"thought":""} hasBbox=true
+[2026-05-07T17:13:29.265+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 419, width: 52, height: 43 },
+    center: [ 601, 440 ],
+    description: '滑动验证的箭头滑块，在最左侧'
+  },
+  to: {
+    rect: { left: 901, top: 419, width: 9, height: 43 },
+    center: [ 905, 440 ],
+    description: '滑动验证条的最右侧末端位置'
+  }
+} taskContext.element.center: 905,440
+[2026-05-07T17:13:29.265+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:13:29.265+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:13:29.466+08:00] calling action DragAndDrop
+[2026-05-07T17:13:35.516+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:13:35.829+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:13:40.834+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:14:03.956+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证的带箭头滑块，位于验证栏左侧","bbox":[575,417,628,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证的带箭头滑块，位于验证栏左侧","bbox":[575,417,628,462]},"thought":""} hasBbox=true
+[2026-05-07T17:14:03.956+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证栏最右端位置","bbox":[902,417,911,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证栏最右端位置","bbox":[902,417,911,462]},"thought":""} hasBbox=true
+[2026-05-07T17:14:03.969+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 575, top: 417, width: 54, height: 46 },
+    center: [ 601, 439 ],
+    description: '滑动验证的带箭头滑块，位于验证栏左侧'
+  },
+  to: {
+    rect: { left: 902, top: 417, width: 10, height: 46 },
+    center: [ 906, 439 ],
+    description: '滑动验证栏最右端位置'
+  }
+} taskContext.element.center: 906,439
+[2026-05-07T17:14:03.969+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:14:03.969+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:14:04.182+08:00] calling action DragAndDrop
+[2026-05-07T17:14:22.477+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:14:22.788+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:14:27.802+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:14:42.512+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"带向右箭头的验证滑块，位于验证栏左侧","bbox":[572,415,630,463]} locatePlan={"type":"Locate","param":{"prompt":"带向右箭头的验证滑块，位于验证栏左侧","bbox":[572,415,630,463]},"thought":""} hasBbox=true
+[2026-05-07T17:14:42.512+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证栏的最右侧末端","bbox":[900,415,910,463]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证栏的最右侧末端","bbox":[900,415,910,463]},"thought":""} hasBbox=true
+[2026-05-07T17:27:17.297+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[577,284,922,335]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[577,284,922,335]},"thought":""} hasBbox=true
+[2026-05-07T17:27:17.305+08:00] executing action Tap {
+  locate: {
+    rect: { left: 577, top: 284, width: 346, height: 52 },
+    center: [ 749, 309 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 749,309
+[2026-05-07T17:27:17.305+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:27:17.305+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:27:17.506+08:00] calling action Tap
+[2026-05-07T17:27:17.512+08:00] called action Tap result: undefined
+[2026-05-07T17:27:17.818+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:27:22.842+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:27:46.062+08:00] will prepend locate param for field action.type=Input param={"prompt":"密码输入框","bbox":[577,346,924,395]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[577,346,924,395]},"thought":""} hasBbox=true
+[2026-05-07T17:27:46.066+08:00] executing action Input {
+  value: 's05311330',
+  locate: {
+    rect: { left: 577, top: 346, width: 348, height: 50 },
+    center: [ 750, 370 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 750,370
+[2026-05-07T17:27:46.066+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:27:46.066+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:27:46.275+08:00] calling action Input
+[2026-05-07T17:27:47.230+08:00] called action Input result: undefined
+[2026-05-07T17:27:47.537+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:27:52.550+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:28:11.031+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块验证的拖动块","bbox":[573,415,630,463]} locatePlan={"type":"Locate","param":{"prompt":"滑块验证的拖动块","bbox":[573,415,630,463]},"thought":""} hasBbox=true
+[2026-05-07T17:28:11.031+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块验证区域的最右侧","bbox":[899,415,922,463]} locatePlan={"type":"Locate","param":{"prompt":"滑块验证区域的最右侧","bbox":[899,415,922,463]},"thought":""} hasBbox=true
+[2026-05-07T17:28:11.042+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 573, top: 415, width: 58, height: 49 },
+    center: [ 601, 439 ],
+    description: '滑块验证的拖动块'
+  },
+  to: {
+    rect: { left: 899, top: 415, width: 24, height: 49 },
+    center: [ 910, 439 ],
+    description: '滑块验证区域的最右侧'
+  }
+} taskContext.element.center: 910,439
+[2026-05-07T17:28:11.042+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:28:11.042+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:28:11.252+08:00] calling action DragAndDrop
+[2026-05-07T17:28:12.830+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:28:13.140+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:28:18.150+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:28:26.309+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块验证的箭头拖动块","bbox":[577,419,635,461]} locatePlan={"type":"Locate","param":{"prompt":"滑块验证的箭头拖动块","bbox":[577,419,635,461]},"thought":""} hasBbox=true
+[2026-05-07T17:28:26.309+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑块验证区域最右侧位置","bbox":[902,419,919,461]} locatePlan={"type":"Locate","param":{"prompt":"滑块验证区域最右侧位置","bbox":[902,419,919,461]},"thought":""} hasBbox=true
+[2026-05-07T17:28:26.320+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 577, top: 419, width: 59, height: 43 },
+    center: [ 606, 440 ],
+    description: '滑块验证的箭头拖动块'
+  },
+  to: {
+    rect: { left: 902, top: 419, width: 18, height: 43 },
+    center: [ 910, 440 ],
+    description: '滑块验证区域最右侧位置'
+  }
+} taskContext.element.center: 910,440
+[2026-05-07T17:28:26.320+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:28:26.320+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:28:26.525+08:00] calling action DragAndDrop
+[2026-05-07T17:28:28.076+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:28:28.391+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:28:33.403+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:28:46.660+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证左侧带箭头的滑块","bbox":[576,416,634,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证左侧带箭头的滑块","bbox":[576,416,634,462]},"thought":""} hasBbox=true
+[2026-05-07T17:28:46.660+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证条最右端","bbox":[904,416,915,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证条最右端","bbox":[904,416,915,462]},"thought":""} hasBbox=true
+[2026-05-07T17:28:46.671+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 416, width: 59, height: 47 },
+    center: [ 605, 439 ],
+    description: '滑动验证左侧带箭头的滑块'
+  },
+  to: {
+    rect: { left: 904, top: 416, width: 12, height: 47 },
+    center: [ 909, 439 ],
+    description: '滑动验证条最右端'
+  }
+} taskContext.element.center: 909,439
+[2026-05-07T17:28:46.671+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:28:46.671+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:28:46.871+08:00] calling action DragAndDrop
+[2026-05-07T17:28:48.424+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:28:48.737+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:28:53.749+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:29:03.978+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的左侧箭头滑块","bbox":[579,418,631,462]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的左侧箭头滑块","bbox":[579,418,631,462]},"thought":""} hasBbox=true
+[2026-05-07T17:29:03.978+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"滑动验证区域的最右端位置","bbox":[900,418,916,462]} locatePlan={"type":"Locate","param":{"prompt":"滑动验证区域的最右端位置","bbox":[900,418,916,462]},"thought":""} hasBbox=true
+[2026-05-07T17:29:03.992+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 579, top: 418, width: 53, height: 45 },
+    center: [ 605, 440 ],
+    description: '向右滑动验证的左侧箭头滑块'
+  },
+  to: {
+    rect: { left: 900, top: 418, width: 17, height: 45 },
+    center: [ 908, 440 ],
+    description: '滑动验证区域的最右端位置'
+  }
+} taskContext.element.center: 908,440
+[2026-05-07T17:29:03.992+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:29:03.992+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:29:04.202+08:00] calling action DragAndDrop
+[2026-05-07T17:29:05.802+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:29:06.115+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:29:11.117+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:29:22.682+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域左侧带箭头的滑块","bbox":[576,417,632,462]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域左侧带箭头的滑块","bbox":[576,417,632,462]},"thought":""} hasBbox=true
+[2026-05-07T17:29:22.682+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域最右端","bbox":[901,417,914,462]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域最右端","bbox":[901,417,914,462]},"thought":""} hasBbox=true
+[2026-05-07T17:29:22.697+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 417, width: 57, height: 46 },
+    center: [ 604, 439 ],
+    description: '向右滑动验证区域左侧带箭头的滑块'
+  },
+  to: {
+    rect: { left: 901, top: 417, width: 14, height: 46 },
+    center: [ 907, 439 ],
+    description: '向右滑动验证区域最右端'
+  }
+} taskContext.element.center: 907,439
+[2026-05-07T17:29:22.697+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:29:22.697+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:29:22.909+08:00] calling action DragAndDrop
+[2026-05-07T17:29:24.477+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:29:24.787+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:29:29.798+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:29:39.300+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证的左侧箭头滑块","bbox":[576,415,632,463]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证的左侧箭头滑块","bbox":[576,415,632,463]},"thought":""} hasBbox=true
+[2026-05-07T17:29:39.300+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"向右滑动验证区域的最右端位置","bbox":[896,415,915,463]} locatePlan={"type":"Locate","param":{"prompt":"向右滑动验证区域的最右端位置","bbox":[896,415,915,463]},"thought":""} hasBbox=true
+[2026-05-07T17:29:39.316+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 415, width: 57, height: 49 },
+    center: [ 604, 439 ],
+    description: '向右滑动验证的左侧箭头滑块'
+  },
+  to: {
+    rect: { left: 896, top: 415, width: 20, height: 49 },
+    center: [ 905, 439 ],
+    description: '向右滑动验证区域的最右端位置'
+  }
+} taskContext.element.center: 905,439
+[2026-05-07T17:29:39.316+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:29:39.316+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:29:39.524+08:00] calling action DragAndDrop
+[2026-05-07T17:29:41.186+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:29:41.495+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:29:46.498+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:30:09.583+08:00] will prepend locate param for field action.type=Tap param={"prompt":"左侧菜单顶部的搜索框","bbox":[26,58,198,86]} locatePlan={"type":"Locate","param":{"prompt":"左侧菜单顶部的搜索框","bbox":[26,58,198,86]},"thought":""} hasBbox=true
+[2026-05-07T17:30:09.591+08:00] executing action Tap {
+  locate: {
+    rect: { left: 26, top: 58, width: 173, height: 29 },
+    center: [ 112, 72 ],
+    description: '左侧菜单顶部的搜索框'
+  }
+} taskContext.element.center: 112,72
+[2026-05-07T17:30:09.591+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:30:09.591+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:30:09.806+08:00] calling action Tap
+[2026-05-07T17:30:09.860+08:00] called action Tap result: undefined
+[2026-05-07T17:30:10.164+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:30:15.178+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:30:22.457+08:00] will prepend locate param for field action.type=Input param={"prompt":"左侧菜单顶部的搜索框","bbox":[26,58,198,86]} locatePlan={"type":"Locate","param":{"prompt":"左侧菜单顶部的搜索框","bbox":[26,58,198,86]},"thought":""} hasBbox=true
+[2026-05-07T17:30:22.466+08:00] executing action Input {
+  value: '返利订单查询',
+  locate: {
+    rect: { left: 26, top: 58, width: 173, height: 29 },
+    center: [ 112, 72 ],
+    description: '左侧菜单顶部的搜索框'
+  }
+} taskContext.element.center: 112,72
+[2026-05-07T17:30:22.466+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:30:22.466+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:30:22.672+08:00] calling action Input
+[2026-05-07T17:30:23.423+08:00] called action Input result: undefined
+[2026-05-07T17:30:23.727+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:30:28.729+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:30:36.096+08:00] will prepend locate param for field action.type=Tap param={"prompt":"左侧菜单中搜索结果的'返利订单查询'选项","bbox":[74,223,179,241]} locatePlan={"type":"Locate","param":{"prompt":"左侧菜单中搜索结果的'返利订单查询'选项","bbox":[74,223,179,241]},"thought":""} hasBbox=true
+[2026-05-07T17:30:36.107+08:00] executing action Tap {
+  locate: {
+    rect: { left: 74, top: 223, width: 106, height: 19 },
+    center: [ 126, 232 ],
+    description: "左侧菜单中搜索结果的'返利订单查询'选项"
+  }
+} taskContext.element.center: 126,232
+[2026-05-07T17:30:36.107+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:30:36.107+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:30:36.321+08:00] calling action Tap
+[2026-05-07T17:30:36.401+08:00] called action Tap result: undefined
+[2026-05-07T17:30:36.711+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:30:41.724+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:30:49.869+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名/账户输入框","bbox":[576,288,919,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名/账户输入框","bbox":[576,288,919,330]},"thought":""} hasBbox=true
+[2026-05-07T17:30:49.878+08:00] executing action Tap {
+  locate: {
+    rect: { left: 576, top: 288, width: 344, height: 43 },
+    center: [ 747, 309 ],
+    description: '用户名/账户输入框'
+  }
+} taskContext.element.center: 747,309
+[2026-05-07T17:30:49.878+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:30:49.878+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:30:50.093+08:00] calling action Tap
+[2026-05-07T17:30:50.099+08:00] called action Tap result: undefined
+[2026-05-07T17:30:50.403+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:30:55.422+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:31:02.987+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名/账户输入框","bbox":[576,288,919,330]} locatePlan={"type":"Locate","param":{"prompt":"用户名/账户输入框","bbox":[576,288,919,330]},"thought":""} hasBbox=true
+[2026-05-07T17:31:02.993+08:00] executing action Input {
+  value: '19017539',
+  locate: {
+    rect: { left: 576, top: 288, width: 344, height: 43 },
+    center: [ 747, 309 ],
+    description: '用户名/账户输入框'
+  }
+} taskContext.element.center: 747,309
+[2026-05-07T17:31:02.993+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:31:02.993+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:31:03.200+08:00] calling action Input
+[2026-05-07T17:31:04.088+08:00] called action Input result: undefined
+[2026-05-07T17:31:04.400+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:31:09.413+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:31:39.394+08:00] will prepend locate param for field action.type=Tap param={"prompt":"密码输入框","bbox":[577,350,920,392]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[577,350,920,392]},"thought":""} hasBbox=true
+[2026-05-07T17:31:39.400+08:00] executing action Tap {
+  locate: {
+    rect: { left: 577, top: 350, width: 344, height: 43 },
+    center: [ 748, 371 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 748,371
+[2026-05-07T17:31:39.400+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:31:39.400+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:31:39.603+08:00] calling action Tap
+[2026-05-07T17:31:39.610+08:00] called action Tap result: undefined
+[2026-05-07T17:31:39.917+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:31:44.918+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:31:51.655+08:00] field 'locate' is not provided for action Input
+[2026-05-07T17:31:51.659+08:00] executing action Input { value: 's05311330' } taskContext.element.center: undefined
+[2026-05-07T17:31:51.659+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:31:51.659+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:31:51.866+08:00] calling action Input
+[2026-05-07T17:31:52.711+08:00] called action Input result: undefined
+[2026-05-07T17:31:53.021+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:31:58.025+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:32:18.539+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the slider for verification","bbox":[573,415,632,465]} locatePlan={"type":"Locate","param":{"prompt":"the slider for verification","bbox":[573,415,632,465]},"thought":""} hasBbox=true
+[2026-05-07T17:32:18.539+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the verification slider bar","bbox":[897,415,922,465]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the verification slider bar","bbox":[897,415,922,465]},"thought":""} hasBbox=true
+[2026-05-07T17:32:18.548+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 573, top: 415, width: 60, height: 51 },
+    center: [ 602, 440 ],
+    description: 'the slider for verification'
+  },
+  to: {
+    rect: { left: 897, top: 415, width: 26, height: 51 },
+    center: [ 909, 440 ],
+    description: 'the right end of the verification slider bar'
+  }
+} taskContext.element.center: 909,440
+[2026-05-07T17:32:18.548+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:32:18.548+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:32:18.763+08:00] calling action DragAndDrop
+[2026-05-07T17:32:20.339+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:32:20.639+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:32:25.641+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:32:34.290+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider for verification on the left","bbox":[580,418,627,461]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider for verification on the left","bbox":[580,418,627,461]},"thought":""} hasBbox=true
+[2026-05-07T17:32:34.290+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[904,418,915,461]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[904,418,915,461]},"thought":""} hasBbox=true
+[2026-05-07T17:32:34.300+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 580, top: 418, width: 48, height: 44 },
+    center: [ 603, 439 ],
+    description: 'the arrow slider for verification on the left'
+  },
+  to: {
+    rect: { left: 904, top: 418, width: 12, height: 44 },
+    center: [ 909, 439 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 909,439
+[2026-05-07T17:32:34.300+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:32:34.300+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:32:34.513+08:00] calling action DragAndDrop
+[2026-05-07T17:32:36.077+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:32:36.390+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:32:41.397+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:32:52.444+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider for sliding verification at left","bbox":[576,419,630,464]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider for sliding verification at left","bbox":[576,419,630,464]},"thought":""} hasBbox=true
+[2026-05-07T17:32:52.444+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification box","bbox":[902,419,911,464]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification box","bbox":[902,419,911,464]},"thought":""} hasBbox=true
+[2026-05-07T17:32:52.457+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 419, width: 55, height: 46 },
+    center: [ 603, 441 ],
+    description: 'the arrow slider for sliding verification at left'
+  },
+  to: {
+    rect: { left: 902, top: 419, width: 10, height: 46 },
+    center: [ 906, 441 ],
+    description: 'the right end of the sliding verification box'
+  }
+} taskContext.element.center: 906,441
+[2026-05-07T17:32:52.457+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:32:52.457+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:32:52.671+08:00] calling action DragAndDrop
+[2026-05-07T17:32:54.248+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:32:54.561+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:32:59.573+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:33:10.139+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider at the left of the verification bar","bbox":[577,416,628,463]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider at the left of the verification bar","bbox":[577,416,628,463]},"thought":""} hasBbox=true
+[2026-05-07T17:33:10.140+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the rightmost end of the sliding verification bar","bbox":[901,416,914,463]} locatePlan={"type":"Locate","param":{"prompt":"the rightmost end of the sliding verification bar","bbox":[901,416,914,463]},"thought":""} hasBbox=true
+[2026-05-07T17:33:10.156+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 577, top: 416, width: 52, height: 48 },
+    center: [ 602, 439 ],
+    description: 'the arrow slider at the left of the verification bar'
+  },
+  to: {
+    rect: { left: 901, top: 416, width: 14, height: 48 },
+    center: [ 907, 439 ],
+    description: 'the rightmost end of the sliding verification bar'
+  }
+} taskContext.element.center: 907,439
+[2026-05-07T17:33:10.156+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:33:10.157+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:33:10.364+08:00] calling action DragAndDrop
+[2026-05-07T17:33:11.940+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:33:12.241+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:33:17.254+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:33:26.503+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider on the left of the verification bar","bbox":[576,418,634,462]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider on the left of the verification bar","bbox":[576,418,634,462]},"thought":""} hasBbox=true
+[2026-05-07T17:33:26.503+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the verification bar","bbox":[906,418,911,462]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the verification bar","bbox":[906,418,911,462]},"thought":""} hasBbox=true
+[2026-05-07T17:33:26.518+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 418, width: 59, height: 45 },
+    center: [ 605, 440 ],
+    description: 'the arrow slider on the left of the verification bar'
+  },
+  to: {
+    rect: { left: 906, top: 418, width: 6, height: 45 },
+    center: [ 908, 440 ],
+    description: 'the right end of the verification bar'
+  }
+} taskContext.element.center: 908,440
+[2026-05-07T17:33:26.518+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:33:26.518+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:33:26.730+08:00] calling action DragAndDrop
+[2026-05-07T17:33:28.296+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:33:28.606+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:33:33.619+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:33:47.111+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider ('>') on the left of the verification bar","bbox":[577,417,630,464]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider ('>') on the left of the verification bar","bbox":[577,417,630,464]},"thought":""} hasBbox=true
+[2026-05-07T17:33:47.112+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[905,417,916,464]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[905,417,916,464]},"thought":""} hasBbox=true
+[2026-05-07T17:33:47.128+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 577, top: 417, width: 54, height: 48 },
+    center: [ 603, 440 ],
+    description: "the arrow slider ('>') on the left of the verification bar"
+  },
+  to: {
+    rect: { left: 905, top: 417, width: 12, height: 48 },
+    center: [ 910, 440 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 910,440
+[2026-05-07T17:33:47.128+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:33:47.128+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:33:47.336+08:00] calling action DragAndDrop
+[2026-05-07T17:33:48.906+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:33:49.220+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:33:54.223+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:06.513+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider (>) on the left of the sliding verification bar","bbox":[575,415,628,462]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider (>) on the left of the sliding verification bar","bbox":[575,415,628,462]},"thought":""} hasBbox=true
+[2026-05-07T17:34:06.513+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the rightmost end of the sliding verification bar","bbox":[902,415,909,462]} locatePlan={"type":"Locate","param":{"prompt":"the rightmost end of the sliding verification bar","bbox":[902,415,909,462]},"thought":""} hasBbox=true
+[2026-05-07T17:34:06.531+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 575, top: 415, width: 54, height: 48 },
+    center: [ 601, 438 ],
+    description: 'the arrow slider (>) on the left of the sliding verification bar'
+  },
+  to: {
+    rect: { left: 902, top: 415, width: 8, height: 48 },
+    center: [ 905, 438 ],
+    description: 'the rightmost end of the sliding verification bar'
+  }
+} taskContext.element.center: 905,438
+[2026-05-07T17:34:06.531+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:06.531+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:06.737+08:00] calling action DragAndDrop
+[2026-05-07T17:34:08.297+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:34:08.612+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:13.621+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:24.372+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider on the left of the verification bar","bbox":[579,417,627,463]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider on the left of the verification bar","bbox":[579,417,627,463]},"thought":""} hasBbox=true
+[2026-05-07T17:34:24.372+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the verification bar","bbox":[902,417,909,463]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the verification bar","bbox":[902,417,909,463]},"thought":""} hasBbox=true
+[2026-05-07T17:34:24.392+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 579, top: 417, width: 49, height: 47 },
+    center: [ 603, 440 ],
+    description: 'the arrow slider on the left of the verification bar'
+  },
+  to: {
+    rect: { left: 902, top: 417, width: 8, height: 47 },
+    center: [ 905, 440 ],
+    description: 'the right end of the verification bar'
+  }
+} taskContext.element.center: 905,440
+[2026-05-07T17:34:24.392+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:24.392+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:24.596+08:00] calling action DragAndDrop
+[2026-05-07T17:34:26.189+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:34:26.498+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:31.514+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:40.242+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider '>' on the left of the sliding verification box","bbox":[576,414,627,461]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider '>' on the left of the sliding verification box","bbox":[576,414,627,461]},"thought":""} hasBbox=true
+[2026-05-07T17:34:40.242+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification box","bbox":[904,414,915,461]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification box","bbox":[904,414,915,461]},"thought":""} hasBbox=true
+[2026-05-07T17:34:40.263+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 414, width: 52, height: 48 },
+    center: [ 601, 437 ],
+    description: "the arrow slider '>' on the left of the sliding verification box"
+  },
+  to: {
+    rect: { left: 904, top: 414, width: 12, height: 48 },
+    center: [ 909, 437 ],
+    description: 'the right end of the sliding verification box'
+  }
+} taskContext.element.center: 909,437
+[2026-05-07T17:34:40.263+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:40.263+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:40.468+08:00] calling action DragAndDrop
+[2026-05-07T17:34:42.032+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:34:42.343+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:47.350+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:57.791+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider box on the left of the sliding verification area","bbox":[573,414,631,464]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider box on the left of the sliding verification area","bbox":[573,414,631,464]},"thought":""} hasBbox=true
+[2026-05-07T17:34:57.791+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[909,414,922,464]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[909,414,922,464]},"thought":""} hasBbox=true
+[2026-05-07T17:34:57.813+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 573, top: 414, width: 59, height: 51 },
+    center: [ 602, 439 ],
+    description: 'the arrow slider box on the left of the sliding verification area'
+  },
+  to: {
+    rect: { left: 909, top: 414, width: 14, height: 51 },
+    center: [ 915, 439 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 915,439
+[2026-05-07T17:34:57.813+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:57.813+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:34:58.028+08:00] calling action DragAndDrop
+[2026-05-07T17:34:59.590+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:34:59.905+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:35:04.921+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:35:18.285+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider with '>' on the left of the verification area","bbox":[576,414,628,464]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider with '>' on the left of the verification area","bbox":[576,414,628,464]},"thought":""} hasBbox=true
+[2026-05-07T17:35:18.285+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[906,414,919,464]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[906,414,919,464]},"thought":""} hasBbox=true
+[2026-05-07T17:35:18.309+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 414, width: 53, height: 51 },
+    center: [ 602, 439 ],
+    description: "the arrow slider with '>' on the left of the verification area"
+  },
+  to: {
+    rect: { left: 906, top: 414, width: 14, height: 51 },
+    center: [ 912, 439 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 912,439
+[2026-05-07T17:35:18.309+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:35:18.309+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:35:18.521+08:00] calling action DragAndDrop
+[2026-05-07T17:35:20.112+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:35:20.421+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:35:25.429+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:35:33.614+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider (>) box on the left of the sliding verification","bbox":[573,414,628,464]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider (>) box on the left of the sliding verification","bbox":[573,414,628,464]},"thought":""} hasBbox=true
+[2026-05-07T17:35:33.614+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[902,414,909,464]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[902,414,909,464]},"thought":""} hasBbox=true
+[2026-05-07T17:35:33.639+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 573, top: 414, width: 56, height: 51 },
+    center: [ 600, 439 ],
+    description: 'the arrow slider (>) box on the left of the sliding verification'
+  },
+  to: {
+    rect: { left: 902, top: 414, width: 8, height: 51 },
+    center: [ 905, 439 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 905,439
+[2026-05-07T17:35:33.639+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:35:33.639+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:35:33.852+08:00] calling action DragAndDrop
+[2026-05-07T17:35:35.428+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:35:35.740+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:35:40.745+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:35:55.032+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider '>' on the left of the sliding verification area","bbox":[576,414,627,461]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider '>' on the left of the sliding verification area","bbox":[576,414,627,461]},"thought":""} hasBbox=true
+[2026-05-07T17:35:55.033+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[901,414,914,461]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[901,414,914,461]},"thought":""} hasBbox=true
+[2026-05-07T17:35:55.061+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 414, width: 52, height: 48 },
+    center: [ 601, 437 ],
+    description: "the arrow slider '>' on the left of the sliding verification area"
+  },
+  to: {
+    rect: { left: 901, top: 414, width: 14, height: 48 },
+    center: [ 907, 437 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 907,437
+[2026-05-07T17:35:55.061+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:35:55.061+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:35:55.274+08:00] calling action DragAndDrop
+[2026-05-07T17:35:56.848+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:35:57.160+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:02.171+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:12.338+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider box ('>') on the left of the sliding verification bar","bbox":[573,414,628,461]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider box ('>') on the left of the sliding verification bar","bbox":[573,414,628,461]},"thought":""} hasBbox=true
+[2026-05-07T17:36:12.338+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[909,414,915,461]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[909,414,915,461]},"thought":""} hasBbox=true
+[2026-05-07T17:36:12.365+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 573, top: 414, width: 56, height: 48 },
+    center: [ 600, 437 ],
+    description: "the arrow slider box ('>') on the left of the sliding verification bar"
+  },
+  to: {
+    rect: { left: 909, top: 414, width: 7, height: 48 },
+    center: [ 912, 437 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 912,437
+[2026-05-07T17:36:12.365+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:12.365+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:12.575+08:00] calling action DragAndDrop
+[2026-05-07T17:36:14.156+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:36:14.468+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:19.474+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:32.461+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider ('>') on the left of the sliding verification bar","bbox":[577,416,630,462]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider ('>') on the left of the sliding verification bar","bbox":[577,416,630,462]},"thought":""} hasBbox=true
+[2026-05-07T17:36:32.461+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[909,416,915,462]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[909,416,915,462]},"thought":""} hasBbox=true
+[2026-05-07T17:36:32.491+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 577, top: 416, width: 54, height: 47 },
+    center: [ 603, 439 ],
+    description: "the arrow slider ('>') on the left of the sliding verification bar"
+  },
+  to: {
+    rect: { left: 909, top: 416, width: 7, height: 47 },
+    center: [ 912, 439 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 912,439
+[2026-05-07T17:36:32.491+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:32.491+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:32.701+08:00] calling action DragAndDrop
+[2026-05-07T17:36:34.275+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:36:34.587+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:39.601+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:49.995+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider box '>' on the left of the sliding verification bar","bbox":[577,415,628,462]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider box '>' on the left of the sliding verification bar","bbox":[577,415,628,462]},"thought":""} hasBbox=true
+[2026-05-07T17:36:49.995+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[904,415,910,462]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[904,415,910,462]},"thought":""} hasBbox=true
+[2026-05-07T17:36:50.024+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 577, top: 415, width: 52, height: 48 },
+    center: [ 602, 438 ],
+    description: "the arrow slider box '>' on the left of the sliding verification bar"
+  },
+  to: {
+    rect: { left: 904, top: 415, width: 7, height: 48 },
+    center: [ 907, 438 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 907,438
+[2026-05-07T17:36:50.024+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:50.024+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:50.227+08:00] calling action DragAndDrop
+[2026-05-07T17:36:51.784+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:36:52.094+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:36:57.099+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:06.794+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider box '>' on the left of the sliding verification area","bbox":[576,418,625,461]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider box '>' on the left of the sliding verification area","bbox":[576,418,625,461]},"thought":""} hasBbox=true
+[2026-05-07T17:37:06.794+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[899,418,911,461]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[899,418,911,461]},"thought":""} hasBbox=true
+[2026-05-07T17:37:06.826+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 418, width: 50, height: 44 },
+    center: [ 600, 439 ],
+    description: "the arrow slider box '>' on the left of the sliding verification area"
+  },
+  to: {
+    rect: { left: 899, top: 418, width: 13, height: 44 },
+    center: [ 905, 439 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 905,439
+[2026-05-07T17:37:06.826+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:06.826+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:07.028+08:00] calling action DragAndDrop
+[2026-05-07T17:37:08.591+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:37:08.905+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:13.910+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:22.543+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow '>' slider box on the left of the sliding verification bar","bbox":[576,415,626,462]} locatePlan={"type":"Locate","param":{"prompt":"the arrow '>' slider box on the left of the sliding verification bar","bbox":[576,415,626,462]},"thought":""} hasBbox=true
+[2026-05-07T17:37:22.543+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[901,415,910,462]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[901,415,910,462]},"thought":""} hasBbox=true
+[2026-05-07T17:37:22.578+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 415, width: 51, height: 48 },
+    center: [ 601, 438 ],
+    description: "the arrow '>' slider box on the left of the sliding verification bar"
+  },
+  to: {
+    rect: { left: 901, top: 415, width: 10, height: 48 },
+    center: [ 905, 438 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 905,438
+[2026-05-07T17:37:22.578+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:22.578+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:22.793+08:00] calling action DragAndDrop
+[2026-05-07T17:37:24.351+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:37:24.663+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:29.674+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:39.925+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider ('>') on the left of the sliding verification area","bbox":[576,414,627,462]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider ('>') on the left of the sliding verification area","bbox":[576,414,627,462]},"thought":""} hasBbox=true
+[2026-05-07T17:37:39.926+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[901,414,909,462]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[901,414,909,462]},"thought":""} hasBbox=true
+[2026-05-07T17:37:39.962+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 414, width: 52, height: 49 },
+    center: [ 601, 438 ],
+    description: "the arrow slider ('>') on the left of the sliding verification area"
+  },
+  to: {
+    rect: { left: 901, top: 414, width: 9, height: 49 },
+    center: [ 905, 438 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 905,438
+[2026-05-07T17:37:39.962+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:39.962+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:40.171+08:00] calling action DragAndDrop
+[2026-05-07T17:37:41.749+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:37:42.063+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:47.075+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:55.935+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider ('>') on the left of the sliding verification bar","bbox":[576,416,627,463]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider ('>') on the left of the sliding verification bar","bbox":[576,416,627,463]},"thought":""} hasBbox=true
+[2026-05-07T17:37:55.935+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[902,416,915,463]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[902,416,915,463]},"thought":""} hasBbox=true
+[2026-05-07T17:37:55.972+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 416, width: 52, height: 48 },
+    center: [ 601, 439 ],
+    description: "the arrow slider ('>') on the left of the sliding verification bar"
+  },
+  to: {
+    rect: { left: 902, top: 416, width: 14, height: 48 },
+    center: [ 908, 439 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 908,439
+[2026-05-07T17:37:55.972+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:55.972+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:37:56.172+08:00] calling action DragAndDrop
+[2026-05-07T17:37:57.748+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:37:58.061+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:38:03.075+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:38:13.640+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the arrow slider box '>' on the left of the sliding verification bar","bbox":[576,415,628,462]} locatePlan={"type":"Locate","param":{"prompt":"the arrow slider box '>' on the left of the sliding verification bar","bbox":[576,415,628,462]},"thought":""} hasBbox=true
+[2026-05-07T17:38:13.640+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the sliding verification bar","bbox":[904,415,911,462]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the sliding verification bar","bbox":[904,415,911,462]},"thought":""} hasBbox=true
+[2026-05-07T17:38:13.679+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 415, width: 53, height: 48 },
+    center: [ 602, 438 ],
+    description: "the arrow slider box '>' on the left of the sliding verification bar"
+  },
+  to: {
+    rect: { left: 904, top: 415, width: 8, height: 48 },
+    center: [ 907, 438 ],
+    description: 'the right end of the sliding verification bar'
+  }
+} taskContext.element.center: 907,438
+[2026-05-07T17:38:13.679+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:38:13.679+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:38:13.893+08:00] calling action DragAndDrop
+[2026-05-07T17:38:15.470+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:38:15.781+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:38:20.789+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:57:57.530+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框（账户输入框）","bbox":[577,285,922,332]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框（账户输入框）","bbox":[577,285,922,332]},"thought":""} hasBbox=true
+[2026-05-07T17:58:43.464+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名输入框","bbox":[580,289,920,333]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[580,289,920,333]},"thought":""} hasBbox=true
+[2026-05-07T17:58:43.473+08:00] executing action Tap {
+  locate: {
+    rect: { left: 580, top: 289, width: 341, height: 45 },
+    center: [ 750, 311 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 750,311
+[2026-05-07T17:58:43.473+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:58:43.473+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:58:43.685+08:00] calling action Tap
+[2026-05-07T17:58:43.692+08:00] called action Tap result: undefined
+[2026-05-07T17:58:43.996+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:58:49.015+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:58:54.109+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名输入框","bbox":[580,289,920,333]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[580,289,920,333]},"thought":""} hasBbox=true
+[2026-05-07T17:58:54.114+08:00] executing action Input {
+  value: '19017539',
+  locate: {
+    rect: { left: 580, top: 289, width: 341, height: 45 },
+    center: [ 750, 311 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 750,311
+[2026-05-07T17:58:54.114+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:58:54.114+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:58:54.325+08:00] calling action Input
+[2026-05-07T17:58:55.214+08:00] called action Input result: undefined
+[2026-05-07T17:58:55.523+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:59:00.533+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:59:19.982+08:00] will prepend locate param for field action.type=Tap param={"prompt":"密码输入框","bbox":[580,349,922,396]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[580,349,922,396]},"thought":""} hasBbox=true
+[2026-05-07T17:59:19.987+08:00] executing action Tap {
+  locate: {
+    rect: { left: 580, top: 349, width: 343, height: 48 },
+    center: [ 751, 372 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 751,372
+[2026-05-07T17:59:19.987+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:59:19.987+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T17:59:20.193+08:00] calling action Tap
+[2026-05-07T17:59:20.200+08:00] called action Tap result: undefined
+[2026-05-07T17:59:20.505+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:59:25.516+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T17:59:33.689+08:00] will prepend locate param for field action.type=Input param={"prompt":"密码输入框","bbox":[580,349,922,396]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[580,349,922,396]},"thought":""} hasBbox=true
+[2026-05-07T17:59:33.696+08:00] executing action Input {
+  value: 's05311330',
+  locate: {
+    rect: { left: 580, top: 349, width: 343, height: 48 },
+    center: [ 751, 372 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 751,372
+[2026-05-07T17:59:33.696+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:59:33.696+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T17:59:33.901+08:00] calling action Input
+[2026-05-07T17:59:34.869+08:00] called action Input result: undefined
+[2026-05-07T17:59:35.181+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:59:40.197+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T17:59:57.490+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the slider arrow for verification","bbox":[573,414,626,462]} locatePlan={"type":"Locate","param":{"prompt":"the slider arrow for verification","bbox":[573,414,626,462]},"thought":""} hasBbox=true
+[2026-05-07T17:59:57.490+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"the right end of the verification slider bar","bbox":[904,414,922,462]} locatePlan={"type":"Locate","param":{"prompt":"the right end of the verification slider bar","bbox":[904,414,922,462]},"thought":""} hasBbox=true
+[2026-05-07T17:59:57.499+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 573, top: 414, width: 54, height: 49 },
+    center: [ 599, 438 ],
+    description: 'the slider arrow for verification'
+  },
+  to: {
+    rect: { left: 904, top: 414, width: 19, height: 49 },
+    center: [ 913, 438 ],
+    description: 'the right end of the verification slider bar'
+  }
+} taskContext.element.center: 913,438
+[2026-05-07T17:59:57.499+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:59:57.499+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T17:59:57.715+08:00] calling action DragAndDrop
+[2026-05-07T17:59:59.379+08:00] called action DragAndDrop result: undefined
+[2026-05-07T17:59:59.683+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T18:00:04.698+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-07T18:00:25.608+08:00] will prepend locate param for field action.type=Tap param={"prompt":"左侧菜单顶部的搜索框","bbox":[23,58,198,86]} locatePlan={"type":"Locate","param":{"prompt":"左侧菜单顶部的搜索框","bbox":[23,58,198,86]},"thought":""} hasBbox=true
+[2026-05-07T18:00:25.615+08:00] executing action Tap {
+  locate: {
+    rect: { left: 23, top: 58, width: 176, height: 29 },
+    center: [ 110, 72 ],
+    description: '左侧菜单顶部的搜索框'
+  }
+} taskContext.element.center: 110,72
+[2026-05-07T18:00:25.615+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T18:00:25.615+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T18:00:25.820+08:00] calling action Tap
+[2026-05-07T18:00:25.886+08:00] called action Tap result: undefined
+[2026-05-07T18:00:26.192+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T18:00:31.206+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-07T18:00:39.261+08:00] will prepend locate param for field action.type=Input param={"prompt":"左侧菜单顶部的搜索框","bbox":[23,58,198,86]} locatePlan={"type":"Locate","param":{"prompt":"左侧菜单顶部的搜索框","bbox":[23,58,198,86]},"thought":""} hasBbox=true
+[2026-05-07T18:00:39.270+08:00] executing action Input {
+  value: '返利订单查询',
+  locate: {
+    rect: { left: 23, top: 58, width: 176, height: 29 },
+    center: [ 110, 72 ],
+    description: '左侧菜单顶部的搜索框'
+  }
+} taskContext.element.center: 110,72
+[2026-05-07T18:00:39.270+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-07T18:00:39.270+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-07T18:00:39.471+08:00] calling action Input
+[2026-05-07T18:00:40.263+08:00] called action Input result: undefined
+[2026-05-07T18:00:40.569+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-07T18:00:45.581+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-07T18:00:55.644+08:00] will prepend locate param for field action.type=Tap param={"prompt":"左侧菜单中的\"返利订单查询\"选项","bbox":[134,227,182,241]} locatePlan={"type":"Locate","param":{"prompt":"左侧菜单中的\"返利订单查询\"选项","bbox":[134,227,182,241]},"thought":""} hasBbox=true
+[2026-05-07T18:00:55.657+08:00] executing action Tap {
+  locate: {
+    rect: { left: 134, top: 227, width: 49, height: 15 },
+    center: [ 158, 234 ],
+    description: '左侧菜单中的"返利订单查询"选项'
+  }
+} taskContext.element.center: 158,234
+[2026-05-07T18:00:55.657+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T18:00:55.657+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-07T18:00:55.863+08:00] calling action Tap
+[2026-05-07T18:00:55.939+08:00] called action Tap result: undefined
+[2026-05-07T18:00:56.238+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-07T18:01:01.245+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-08T11:12:16.898+08:00] will prepend locate param for field action.type=Tap param={"prompt":"用户名（账户）输入框","bbox":[579,285,923,333]} locatePlan={"type":"Locate","param":{"prompt":"用户名（账户）输入框","bbox":[579,285,923,333]},"thought":""} hasBbox=true
+[2026-05-08T11:12:16.905+08:00] executing action Tap {
+  locate: {
+    rect: { left: 579, top: 285, width: 345, height: 49 },
+    center: [ 751, 309 ],
+    description: '用户名（账户）输入框'
+  }
+} taskContext.element.center: 751,309
+[2026-05-08T11:12:16.905+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-08T11:12:16.905+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-08T11:12:17.121+08:00] calling action Tap
+[2026-05-08T11:12:17.142+08:00] called action Tap result: undefined
+[2026-05-08T11:12:17.445+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-08T11:12:22.459+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-08T11:12:28.390+08:00] field 'locate' is not provided for action Input
+[2026-05-08T11:12:28.393+08:00] executing action Input { value: '19017539' } taskContext.element.center: undefined
+[2026-05-08T11:12:28.393+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-08T11:12:28.393+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-08T11:12:28.602+08:00] calling action Input
+[2026-05-08T11:12:29.355+08:00] called action Input result: undefined
+[2026-05-08T11:12:29.664+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-08T11:12:34.676+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-08T11:12:53.865+08:00] will prepend locate param for field action.type=Tap param={"prompt":"密码输入框","bbox":[580,354,923,395]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[580,354,923,395]},"thought":""} hasBbox=true
+[2026-05-08T11:12:53.870+08:00] executing action Tap {
+  locate: {
+    rect: { left: 580, top: 354, width: 344, height: 42 },
+    center: [ 751, 374 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 751,374
+[2026-05-08T11:12:53.871+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-08T11:12:53.871+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-08T11:12:54.074+08:00] calling action Tap
+[2026-05-08T11:12:54.083+08:00] called action Tap result: undefined
+[2026-05-08T11:12:54.389+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-08T11:12:59.394+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-08T11:13:05.220+08:00] field 'locate' is not provided for action Input
+[2026-05-08T11:13:05.224+08:00] executing action Input { value: 's05311330' } taskContext.element.center: undefined
+[2026-05-08T11:13:05.224+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-08T11:13:05.224+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-08T11:13:05.431+08:00] calling action Input
+[2026-05-08T11:13:06.278+08:00] called action Input result: undefined
+[2026-05-08T11:13:06.591+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-08T11:13:11.600+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-08T11:13:31.911+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"验证滑块箭头","bbox":[576,415,627,463]} locatePlan={"type":"Locate","param":{"prompt":"验证滑块箭头","bbox":[576,415,627,463]},"thought":""} hasBbox=true
+[2026-05-08T11:13:31.911+08:00] will prepend locate param for field action.type=DragAndDrop param={"prompt":"验证条最右侧末端","bbox":[906,415,919,463]} locatePlan={"type":"Locate","param":{"prompt":"验证条最右侧末端","bbox":[906,415,919,463]},"thought":""} hasBbox=true
+[2026-05-08T11:13:31.920+08:00] executing action DragAndDrop {
+  from: {
+    rect: { left: 576, top: 415, width: 52, height: 49 },
+    center: [ 601, 439 ],
+    description: '验证滑块箭头'
+  },
+  to: {
+    rect: { left: 906, top: 415, width: 14, height: 49 },
+    center: [ 912, 439 ],
+    description: '验证条最右侧末端'
+  }
+} taskContext.element.center: 912,439
+[2026-05-08T11:13:31.920+08:00] will call "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-08T11:13:31.920+08:00] called "beforeInvokeAction" for interface with action name DragAndDrop
+[2026-05-08T11:13:32.126+08:00] calling action DragAndDrop
+[2026-05-08T11:13:33.775+08:00] called action DragAndDrop result: undefined
+[2026-05-08T11:13:34.089+08:00] will call "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-08T11:13:39.109+08:00] called "afterInvokeAction" for interface with action name DragAndDrop
+[2026-05-08T11:14:03.783+08:00] will prepend locate param for field action.type=Tap param={"prompt":"左侧菜单顶部的搜索框","bbox":[26,58,196,85]} locatePlan={"type":"Locate","param":{"prompt":"左侧菜单顶部的搜索框","bbox":[26,58,196,85]},"thought":""} hasBbox=true
+[2026-05-08T11:14:03.792+08:00] executing action Tap {
+  locate: {
+    rect: { left: 26, top: 58, width: 171, height: 28 },
+    center: [ 111, 71 ],
+    description: '左侧菜单顶部的搜索框'
+  }
+} taskContext.element.center: 111,71
+[2026-05-08T11:14:03.792+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-08T11:14:03.792+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-08T11:14:03.995+08:00] calling action Tap
+[2026-05-08T11:14:04.056+08:00] called action Tap result: undefined
+[2026-05-08T11:14:04.356+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-08T11:14:09.356+08:00] called "afterInvokeAction" for interface with action name Tap
+[2026-05-08T11:14:14.212+08:00] field 'locate' is not provided for action Input
+[2026-05-08T11:14:14.220+08:00] executing action Input { value: '返利订单查询' } taskContext.element.center: undefined
+[2026-05-08T11:14:14.220+08:00] will call "beforeInvokeAction" for interface with action name Input
+[2026-05-08T11:14:14.220+08:00] called "beforeInvokeAction" for interface with action name Input
+[2026-05-08T11:14:14.432+08:00] calling action Input
+[2026-05-08T11:14:15.070+08:00] called action Input result: undefined
+[2026-05-08T11:14:15.376+08:00] will call "afterInvokeAction" for interface with action name Input
+[2026-05-08T11:14:20.392+08:00] called "afterInvokeAction" for interface with action name Input
+[2026-05-08T11:14:30.722+08:00] will prepend locate param for field action.type=Tap param={"prompt":"左侧菜单搜索结果中的\"返利订单查询\"选项","bbox":[74,223,195,244]} locatePlan={"type":"Locate","param":{"prompt":"左侧菜单搜索结果中的\"返利订单查询\"选项","bbox":[74,223,195,244]},"thought":""} hasBbox=true
+[2026-05-08T11:14:30.730+08:00] executing action Tap {
+  locate: {
+    rect: { left: 74, top: 223, width: 122, height: 22 },
+    center: [ 134, 233 ],
+    description: '左侧菜单搜索结果中的"返利订单查询"选项'
+  }
+} taskContext.element.center: 134,233
+[2026-05-08T11:14:30.730+08:00] will call "beforeInvokeAction" for interface with action name Tap
+[2026-05-08T11:14:30.730+08:00] called "beforeInvokeAction" for interface with action name Tap
+[2026-05-08T11:14:30.935+08:00] calling action Tap
+[2026-05-08T11:14:31.013+08:00] called action Tap result: undefined
+[2026-05-08T11:14:31.321+08:00] will call "afterInvokeAction" for interface with action name Tap
+[2026-05-08T11:14:36.334+08:00] called "afterInvokeAction" for interface with action name Tap

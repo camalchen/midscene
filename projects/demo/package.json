@@ -1,0 +1,18 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@midscene/web": "^1.7.9",
+    "@playwright/test": "^1.59.1",
+    "dotenv": "^17.4.2",
+    "playwright": "^1.59.1"
+  }
+}
