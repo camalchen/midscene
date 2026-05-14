@@ -1,6 +1,9 @@
 # Dependencies
 **/node_modules/
 
+# Node.js runtime (local bundle)
+nodejs/
+
 # Chrome user data & temp
 chrome-temp-data/
 chrome-user-data/
