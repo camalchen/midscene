@@ -7,7 +7,10 @@ chrome-user-data/
 
 # Midscene runtime logs & reports
 midscene_run/
-projects/demo/midscene_run/
+**/midscene_run/
+
+# Screenshots
+**/screenshots/
 
 # OS files
 Thumbs.db
@@ -17,5 +20,14 @@ Desktop.ini
 .vscode/
 .idea/
 
-# Environment
+# Environment & secrets
 .env
+**/.env
+auth.json
+**/auth.json
+
+# CRX extension files
+*.crx
+
+# Node zip
+node-v22.zip
