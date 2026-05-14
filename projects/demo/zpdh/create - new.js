@@ -64,6 +64,27 @@ async function submitWithAutoFix(page, ai, dialog, maxRetries = 2) {
 
     if (dialogGone || hasSuccessMsg) {
       console.log('提交成功！');
+      
+      // 等待弹窗关闭动画完成
+      await page.waitForTimeout(1500);
+      
+      // 如果弹窗还在，手动关闭
+      const stillOpen = await page.evaluate(() => {
+        const d = document.querySelector('.el-dialog__wrapper');
+        return d && d.style.display !== 'none' && !d.classList.contains('v-modal-leave');
+      });
+      
+      if (stillOpen) {
+        console.log('弹窗未自动关闭，手动关闭...');
+        const closeBtn = page.locator('.el-dialog__headerbtn').first();
+        if (await closeBtn.count() > 0) {
+          await closeBtn.click();
+        } else {
+          await page.keyboard.press('Escape');
+        }
+        await page.waitForTimeout(1000);
+      }
+      
       await ai.aiAssert('赠品规则已成功创建，页面显示规则列表');
       await takeScreenshot(page, '7-提交成功');
       return true;
@@ -141,28 +162,38 @@ async function submitWithAutoFix(page, ai, dialog, maxRetries = 2) {
     await page.waitForSelector('.el-date-range-picker', { state: 'visible', timeout: 5000 });
     await page.waitForTimeout(500);
 
-    // 左侧面板选14号
+    // 计算动态日期：开始=今天+1天，结束=今天+30天
+    const startDate = new Date(); startDate.setDate(startDate.getDate() + 1);
+    const startDay = String(startDate.getDate());
+    const endDate = new Date(); endDate.setDate(endDate.getDate() + 30);
+    const endDay = String(endDate.getDate());
+    const sameMonth = startDate.getMonth() === endDate.getMonth() && startDate.getFullYear() === endDate.getFullYear();
+    console.log(`日期范围: ${startDate.getMonth()+1}/${startDay} ~ ${endDate.getMonth()+1}/${endDay}`);
+
+    // 选开始日期（今天+1天）
     const leftPanel = page.locator('.el-date-range-picker__content').first();
-    const day14 = leftPanel.locator('td.available').filter({ hasText: /^14$/ }).first();
-    if (await day14.count() > 0) {
-      await day14.click();
+    const startDayCell = leftPanel.locator('td.available').filter({ hasText: new RegExp(`^${startDay}$`) }).first();
+    if (await startDayCell.count() > 0) {
+      await startDayCell.click();
     } else {
       const tds = leftPanel.locator('td:not(.disabled):not(.prev-month)');
       for (let i = 0; i < await tds.count(); i++) {
-        if ((await tds.nth(i).textContent())?.trim() === '14') { await tds.nth(i).click(); break; }
+        if ((await tds.nth(i).textContent())?.trim() === startDay) { await tds.nth(i).click(); break; }
       }
     }
     await page.waitForTimeout(200);
 
-    // 右侧面板选30号
-    const rightPanel = page.locator('.el-date-range-picker__content').nth(1);
-    const day30 = rightPanel.locator('td.available').filter({ hasText: /^30$/ }).first();
-    if (await day30.count() > 0) {
-      await day30.click();
+    // 选结束日期（今天+30天，同月则在左侧面板，跨月则在右侧面板）
+    const targetPanel = sameMonth
+      ? page.locator('.el-date-range-picker__content').first()
+      : page.locator('.el-date-range-picker__content').nth(1);
+    const endDayCell = targetPanel.locator('td.available').filter({ hasText: new RegExp(`^${endDay}$`) }).first();
+    if (await endDayCell.count() > 0) {
+      await endDayCell.click();
     } else {
-      const tds = rightPanel.locator('td:not(.disabled):not(.next-month)');
+      const tds = targetPanel.locator('td:not(.disabled):not(.next-month)');
       for (let i = 0; i < await tds.count(); i++) {
-        if ((await tds.nth(i).textContent())?.trim() === '30') { await tds.nth(i).click(); break; }
+        if ((await tds.nth(i).textContent())?.trim() === endDay) { await tds.nth(i).click(); break; }
       }
     }
     await page.waitForTimeout(200);
